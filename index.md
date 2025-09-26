@@ -1,5 +1,7 @@
 # Angelo Dian
 
+![Angelo Dian](/greatwall_photo.jpg){:style="max-width:200px; border-radius:50%;"}
+
 Welcome to my academic homepage.  
 I am a PhD graduate in Experimental Phonetics at the University of Melbourne.  
 My research focuses on Italian consonant length (gemination), consonantal strength, and acoustic–phonetic correlates.
