@@ -16,18 +16,18 @@ My research focuses on Italian consonant length (gemination), consonantal streng
 
 ---
 
-## 📄 CV
+## CV
 [Download my CV](#) (add link later)
 
-## 📚 Publications
+## Publications
 - Dian, A. (2025). *Non-durational cues to Italian gemination across varieties*. Journal of Phonetics. [DOI link]  
 - Dian, A. (2024). *Calabrian Italian aspirated geminates*. Proceedings of AISV. [DOI link]
 
-## ✍️ Blog / News
+## Blog / News
 - Sep 2025 — Gave a talk at LMU Munich (slides coming soon).  
 - Jul 2025 — Preprint on Calabrian Italian available on OSF.  
 
-## 🔗 Links
+## Links
 - [Google Scholar](#)  
 - [ORCID](#)  
 - [GitHub](#)  
