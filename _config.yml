@@ -1,10 +1,11 @@
 title: "Angelo Dian"
 description: "PhD Graduate in Experimental Phonetics"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman   # was jekyll-theme-minimal
 
-# These are your top navigation links
 header_pages:
   - index.md
   - research.md
   - publications.md
   - cv.md
+  - blog.md
+timezone: Australia/Melbourne
