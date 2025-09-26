@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Angelo Dian"
+title: "Home"
 ---
 
 <div style="max-width: 900px; margin: 0 auto;">
