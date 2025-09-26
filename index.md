@@ -1,6 +1,6 @@
 # Angelo Dian
 
-![Angelo Dian](/greatwall_photo2.jpg){:style="max-width:200px; border-radius:50%;"}
+<img src="/assets/profile.jpg" alt="Angelo Dian" width="200" style="border-radius:50%; display:block; margin:auto;">
 
 Welcome to my academic homepage.  
 I am a PhD graduate in Experimental Phonetics at the University of Melbourne.  
