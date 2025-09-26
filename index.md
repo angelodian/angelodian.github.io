@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+<style>.site-title { display: none; }</style>
+
 <div style="position:relative; left:50%; right:50%;
             margin-left:-50vw; margin-right:-50vw; width:100vw;">
   <img src="/greatwall_photo2.jpg"
