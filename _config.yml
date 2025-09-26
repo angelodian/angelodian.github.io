@@ -1,11 +1,16 @@
 title: "Angelo Dian"
 description: "PhD Graduate in Experimental Phonetics"
-theme: jekyll-theme-cayman   # was jekyll-theme-minimal
+theme: minima
+timezone: Australia/Melbourne
 
+# navbar links (this is what minima reads)
 header_pages:
   - index.md
   - research.md
   - publications.md
   - cv.md
   - blog.md
-timezone: Australia/Melbourne
+
+# optional but nice to have
+plugins:
+  - jekyll-feed
