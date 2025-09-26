@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: null
 ---
 
 <style>.site-title { display: none; }</style>
