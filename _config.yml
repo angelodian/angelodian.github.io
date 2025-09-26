@@ -1,0 +1,10 @@
+title: "Angelo Dian"
+description: "PhD Graduate in Experimental Phonetics"
+theme: jekyll-theme-minimal
+
+# These are your top navigation links
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - cv.md
