@@ -3,13 +3,11 @@ layout: page
 title: "Home"
 ---
 
-<div style="max-width: 900px; margin: 0 auto;">
-  <img
-    src="/greatwall_photo2.jpg"
-    alt="Angelo Dian"
-    style="display:block; margin: 0 auto; width: 100%; max-width: 500px; height: auto; border-radius: 50%;"
-  >
-</div>
+<img
+  src="/greatwall_photo2.jpg"
+  alt="Angelo Dian"
+  style="display:block; margin: 0 auto; width: 100%; max-width: 500px; height: auto; border-radius: 15px;"
+>
 
 Welcome to my academic homepage.  
 I am a PhD graduate in Experimental Phonetics at the University of Melbourne.  
