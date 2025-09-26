@@ -6,7 +6,7 @@ title: "Home"
 <img
   src="/greatwall_photo2.jpg"
   alt="Angelo Dian"
-  style="display:block; margin: 0 auto; width: 100%; max-width: 500px; height: auto; border-radius: 15px;"
+  style="display:block; margin: 0 auto; width: 100%; max-width: 900px; height: auto; border-radius: 15px;"
 >
 </div>
 
