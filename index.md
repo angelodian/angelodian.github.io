@@ -12,7 +12,7 @@ title: "Home"
 
 Welcome to my academic homepage.  
 
-I'm a phonetician, so I'll start my introduction with the pronunciation of my name the way I say it, transcribed using the IPA alphabet: [ˈand͡ʒelo ˈdjaŋ]. [ˈdjaŋ], one syllable , with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto, where I'm from, but the rest of Italians tend to say [ˈdi.an] (two syllables and an alveolar nasal at the end) or [ˈdjanːə] :)
+I'm a phonetician, so I'll start my introduction with the pronunciation of my name the way I say it, transcribed using the IPA alphabet: [ˈand͡ʒelo ˈdjaŋ]. [ˈdjaŋ], one syllable , with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto, where I'm from, but the rest of Italians tend to say [ˈdi.an] (two syllables and an alveolar nasal at the end) or [ˈdjanːə] in line with Italian phonological rules :)
 
 I'm excited to soon start a position as Postdoctoral Research Associate at the University of Oxford, where I'm joining the ESRC-funded research project "Mapping Prosody Convergence in the Eastern Mediterranean" led by PI Elinor Payne.
 
