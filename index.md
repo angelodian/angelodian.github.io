@@ -11,8 +11,9 @@ title: "Home"
 </div>
 
 Welcome to my academic homepage.  
-I am a PhD graduate in Experimental Phonetics at the University of Melbourne.  
-My research focuses on Italian consonant length (gemination), consonantal strength, and acoustic–phonetic correlates.
+I am excited to soon start my position as Postdoctoral Research Associate at the University of Oxford, where I am joining the ESRC-funded research project "Mapping Prosody Convergence in the Eastern Mediterranean" led by PI Elinor Payne.
+My research will focus on prosodic traces of language contact, including intonation, between Italo-Romance varieties (mostly Venetan and Italian) and the varieties of Croatian spoken along the Adriatic coast in Istria and Dalmatia. 
+Another research interest of mine concerns the interaction beween consonantal length (gemination) and strength in Italian and other languages - a topic I extensively researched during my PhD at the University of Melbourne.
 
 ---
 
