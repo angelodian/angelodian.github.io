@@ -28,7 +28,7 @@ Un altro mio interesse di ricerca riguarda l’interazione tra lunghezza consona
 ---
 
 ## CV
-[In arrivo](#) (aggiungi link in seguito)
+[In arrivo](#)
 
 ## Pubblicazioni recenti
 - De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
