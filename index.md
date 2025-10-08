@@ -27,7 +27,7 @@ Another research interest of mine concerns the interaction beween consonantal le
 ---
 
 ## CV
-[Download my CV](#) (add link later)
+[Coming soon](#)
 
 ## Recent publications
 - De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
