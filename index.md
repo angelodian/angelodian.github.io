@@ -31,7 +31,7 @@ Another research interest of mine concerns the interaction beween consonantal le
 - Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
 
 ## Latest news
-- Aug 2025 — Accepted a post as Postdoctoral Research Associate at the <a href="https://www.ling-phil.ox.ac.uk/">Faculty of Linguistics, Philology and Phonetics, University of Oxford</a>.  
+- Aug 2025 — Accepted a post as Postdoctoral Research Associate at the <a href="https://www.ling-phil.ox.ac.uk/">Faculty of Linguistics, Philology and Phonetics, University of Oxford</a>, starting in November this year.  
 - Jul 2025 — Was awarded a PhD from the <a href="https://arts.unimelb.edu.au/school-of-languages-and-linguistics">University of Melbourne, School of Languages and Linguistics</a>.  
 
 ## Links
