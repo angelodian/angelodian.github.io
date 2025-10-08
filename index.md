@@ -16,7 +16,7 @@ title: "Home"
 
 Welcome to my academic homepage.  
 
-I'm a phonetician, so I'll start my introduction with the phonetic transcription of my name the way I say it, transcribed using the <a href="https://www.internationalphoneticassociation.org/">IPA</a> alphabet: [ˈand͡ʒelo ˈdjaŋ]. [ˈdjaŋ], one syllable, with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto, where I'm from. However, the rest of Italians tend to say [ˈdi.an] (two syllables and an alveolar nasal at the end). Either pronunciation is fine to me :-)
+I'm a phonetician, so I'll start my introduction with the phonetic transcription of my name the way I say it, transcribed using the <a href="https://www.internationalphoneticassociation.org/content/ipa-chart">IPA alphabet</a>: [ˈand͡ʒelo ˈdjaŋ]. [ˈdjaŋ], one syllable, with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto, where I'm from. However, the rest of Italians tend to say [ˈdi.an] (two syllables and an alveolar nasal at the end). Either pronunciation is fine to me :-)
 
 I'm excited to soon start a position as Postdoctoral Research Associate at the University of Oxford, where I'm joining the <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project "Mapping Prosody Convergence in the Eastern Mediterranean" led by PI Elinor Payne (temporary link <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">here</a>).
 
