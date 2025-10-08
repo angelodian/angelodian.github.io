@@ -17,7 +17,7 @@ title: "Home"
 
 Benvenuti nella mia homepage accademica.  
 
-Sono un fonetista, quindi inizierò la mia presentazione con la trascrizione fonetica del mio nome come lo si dice in Veneto, trascritta usando l’alfabeto <a href="https://www.internationalphoneticassociation.org/">IPA</a>: [ˈand͡ʒelo ˈdjaŋ]. Il cognome [ˈdjaŋ] si pronuncia con una sillaba sola, quindi con con un dittongo, e una nasale velare finale. Fuori dal veneto la pronuncia tende ad essere [ˈdi.an] (due sillabe e una nasale alveolare finale). Entrambe le pronunce vanno benissimo :-)
+Sono un fonetista, quindi inizierò la mia presentazione con la trascrizione fonetica del mio nome come lo si dice in Veneto, trascritta usando l’<a href="https://www.internationalphoneticassociation.org/content/ipa-chart">alfabeto IPA</a>: [ˈand͡ʒelo ˈdjaŋ]. Il cognome [ˈdjaŋ] si pronuncia con una sillaba sola, quindi con con un dittongo, e una nasale velare finale. Fuori dal veneto la pronuncia tende ad essere [ˈdi.an] (due sillabe e una nasale alveolare finale). Entrambe le pronunce vanno benissimo :-)
 
 Tra poco inizierò un incarico come Ricercatore Associato presso l’Università di Oxford, dove mi unirò al progetto di ricerca finanziato dall’<a href="https://www.ukri.org/councils/esrc/">ESRC</a> “Mapping Prosody Convergence in the Eastern Mediterranean” ("La mappatura della convergenza prosodica nel mediterraneo orientale"), guidato dalla Investigatrice Principale Elinor Payne (link temporaneo <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">qui</a>).
 
