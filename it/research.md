@@ -4,7 +4,7 @@ title: "Ricerca"
 ---
 
 <p style="text-align:right; font-size:0.95rem;">
-  <a href="/research.html">English</a>
+  <a href="/research.html">🇬🇧 English</a>
 </p>
 
 # Progetti in corso
