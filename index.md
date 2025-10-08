@@ -2,6 +2,10 @@
 layout: page
 title: "Home"
 ---
+<p style="text-align:right; font-size:0.95rem;">
+  <a href="/it/">Italiano</a>
+</p>
+
 <div style="max-width: 900px; margin: 0 auto;">
 <img
   src="/greatwall_photo2.jpg"
