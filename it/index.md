@@ -31,9 +31,9 @@ Un altro mio interesse di ricerca riguarda l’interazione tra lunghezza consona
 [Scarica il mio CV](#) (aggiungi link in seguito)
 
 ## Pubblicazioni recenti
-- De Iacovo, V., Dian, A., & Hajek, J. (2025). La percezione della geminazione in italiano da parte di parlanti nativi in Italia e di parlanti di eredità e L2 in Australia. *Phonetica*, 82(5).  
-- Dian, A., Hajek, J., & Fletcher, J. (2024a). Pattern transregionali di sonorizzazione e geminazione delle occlusive: il caso dell’italiano romano e veneto. *Languages*, 9(12), 383. [DOI link](https://doi.org/10.3390/languages9120383)  
-- Dian, A., Hajek, J., & Fletcher, J. (2024b). Un’indagine acustica ed elettroglottografica (EGG) sulla preaspirazione e sulla qualità vocale nel contrasto italiano a quattro vie delle occlusive, attraverso varietà regionali. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
+- De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
+- Dian, A., Hajek, J., & Fletcher, J. (2024a). Cross-Regional Patterns of Obstruent Voicing and Gemination: The Case of Roman and Veneto Italian. *Languages*, 9(12), 383. [DOI link](https://doi.org/10.3390/languages9120383)
+- Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
 
 ## Ultime notizie
 - Ago 2025 — Ho accettato un lavoro come ricercatore associato presso l'Università di Oxford <a href="https://www.ling-phil.ox.ac.uk/">Facultà di Linguistics,  Filologia e Fonetica</a>, con inizio a novembre di quest’anno.  
