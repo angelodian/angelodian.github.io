@@ -15,7 +15,7 @@ title: "Home"
   >
 </div>
 
-Benvenuti nella mia homepage accademica.  
+## Benvenute/i nella mia homepage accademica.  
 
 Sono un fonetista, quindi inizierò la mia presentazione con la trascrizione fonetica del mio nome come lo si dice in Veneto, trascritta usando l’<a href="https://www.internationalphoneticassociation.org/content/ipa-chart">alfabeto IPA</a>: [ˈand͡ʒelo ˈdjaŋ]. Il cognome [ˈdjaŋ] si pronuncia con una sillaba sola, quindi con con un dittongo, e una nasale velare finale. Fuori dal veneto la pronuncia tende ad essere [ˈdi.an] (due sillabe e una nasale alveolare finale). Entrambe le pronunce vanno benissimo :-)
 
