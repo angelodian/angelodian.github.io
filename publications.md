@@ -13,7 +13,7 @@ title: "Publications"
 
 ## Journal Articles
 
-De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica.*  https://doi.org/10.1515/phon-2025-0012
+De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica.*, 82(5).  https://doi.org/10.1515/phon-2025-0012
 
 Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent voicing and gemination: The case of Roman and Veneto Italian. *Languages, 9*(12), 383. https://doi.org/10.3390/languages9120383  
 
