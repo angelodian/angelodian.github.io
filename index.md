@@ -15,7 +15,7 @@ title: "Home"
 </div>
 
    
-## Welcome to my academic homepage.  
+## Welcome to my academic homepage!  
 
 I'm a phonetician, so I'll start my introduction with the phonetic transcription of my name the way I say it, transcribed using the <a href="https://www.internationalphoneticassociation.org/content/ipa-chart">IPA alphabet</a>: [ˈɐnd͡ʒelo ˈdjɐŋ]. [ˈdjɐŋ], one syllable, with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto region of Italy, where I'm from. However, the rest of Italians tend to say [ˈdi.ɐn] (two syllables and an alveolar nasal at the end). Either pronunciation is fine to me :-)
 
