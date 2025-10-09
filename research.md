@@ -7,6 +7,14 @@ title: "Research"
   <a href="/it/research.html">🇮🇹 Italiano</a>
 </p>
 
+<div style="max-width: 900px; margin: 0 auto;">
+<img
+  src="/research_cover.jpg"
+  alt="Research"
+  style="display:block; margin: 0 auto; width: 100%; max-width: 900px; height: auto; border-radius: 15px;"
+>
+</div>
+
 # Current projects
 
 - **Prosodic traces of language contact (Italo-Romance ↔ Croatian)**  
