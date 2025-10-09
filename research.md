@@ -9,7 +9,7 @@ title: "Research"
 
 <div style="max-width: 900px; margin: 0 auto;">
 <img
-  src="/research_cover.jpg"
+  src="/research2.jpg"
   alt="Research"
   style="display:block; margin: 0 auto; width: 100%; max-width: 900px; height: auto; border-radius: 15px;"
 >
