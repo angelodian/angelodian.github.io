@@ -7,8 +7,6 @@ title: "Publications"
   <a href="/it/publications.html">🇮🇹 Italiano</a>
 </p>
 
-# Publications
-
 ---
 
 ## Journal Articles
