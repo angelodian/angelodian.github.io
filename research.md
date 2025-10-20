@@ -21,7 +21,7 @@ title: "Research"
   Part of the ESRC-funded project *Mapping Prosody Convergence in the Eastern Mediterranean* (PI: Elinor Payne).  
   Focus: prosodic/intonational convergence between Venetan/Italian and coastal Croatian varieties.
 
-- **Consonantal length (gemination) and strength in Italian**  
+- <a href="/gemination.md">**Consonantal length (gemination) and strength in Italian**</a>
   Ongoing line from my PhD: acoustic and articulatory correlates of the long–short contrast across regional varieties; includes work on **preaspiration** and voice quality.
 
 - **The “evanescent /l/” in Venetan**  
