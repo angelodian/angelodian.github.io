@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Gemination and Consonantal Length in Italian"
+title: "Gemination and Consonantal Strength in Italian"
 ---
 
 <p style="text-align:right; font-size:0.95rem;">
