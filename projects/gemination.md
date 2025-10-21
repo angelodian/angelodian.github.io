@@ -49,6 +49,8 @@ One of the main questions driving my research is whether **gemination** – the 
 In other words:  
 > Are geminates simply longer than singletons, or do speakers and listeners also rely on other phonetic cues, beyond timing, to distinguish them across regional varieties?
 
+I am certainly not the first to ask this question. As early as Swadesh ([1937](#ref-swadesh1937)), scholars have associated gemination with the notion of articulatory “strength”. Several important theoretical and experimental studies have explored this relationship, including Romeo ([1967](#ref-romeo1967)), Leonard ([1968](#ref-leonard1968)), Hooper ([1976](#ref-hooper1976)), Catford ([1977](#ref-catford1977)), Hankamer et al. ([1989](#ref-hankamer1989)), and, more recently, Payne ([2005](#ref-payne2005); [2006](#ref-payne2006)), Ridouane ([2010](#ref-ridouane2010)), Al-Tamimi & Khattab ([2018](#ref-altamimi2018)), and Burroni et al. ([2024](#ref-burroni2024)).
+
 ---
 
 ### Findings and interpretation
@@ -78,3 +80,29 @@ This laryngeal adjustment spreads the vocal folds apart and often surfaces as **
 My research on this topic is ongoing — I am currently analysing further data and examining perception in collaboration with colleagues.  
 
 Stay tuned for updates and forthcoming publications! :-)
+
+---
+
+### References
+
+<a id="ref-altamimi2018"></a>Al-Tamimi, J., & Khattab, G. (2018). Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate stops. *Journal of Phonetics, 71*, 306–325. https://doi.org/10.1016/j.wocn.2018.09.010
+
+<a id="ref-burroni2024"></a>Burroni, F., Maspong, S., Benker, N., Hoole, P., & Kirby, J. (2024). Spatiotemporal features of bilabial geminate and singleton consonants in Italian. In *Proceedings of the 13th International Seminar on Speech Production*. Autrans, France.
+
+<a id="ref-catford1977"></a>Catford, J. C. (1977). *Fundamental problems in phonetics*. Edinburgh: Edinburgh University Press.
+
+<a id="ref-hankamer1989"></a>Hankamer, J., Lahiri, A., & Koreman, J. (1989). Perception of consonant length: Voiceless stops in Turkish and Bengali. *Journal of Phonetics, 17*(4), 283–298.
+
+<a id="ref-hooper1976"></a>Hooper, J. B. (1976). *An introduction to natural generative phonology*. New York: Academic Press.
+
+<a id="ref-leonard1968"></a>Leonard, C. S. (1968). Initial alternation in Proto-Romance. *Language, 44*(2), 267.
+
+<a id="ref-payne2005"></a>Payne, E. M. (2005). Phonetic variation in Italian consonant gemination. *Journal of the International Phonetic Association, 35*(2), 153–181. https://doi.org/10.1017/S0025100305002240
+
+<a id="ref-payne2006"></a>Payne, E. M. (2006). Non-durational indices in Italian geminate consonants. *Journal of the International Phonetic Association, 36*(1), 83–95. https://doi.org/10.1017/S0025100306002398
+
+<a id="ref-ridouane2010"></a>Ridouane, R. (2010). Geminates at the junction of phonetics and phonology. In C. Fougeron, B. Kühnert, M. D’Imperio, & N. Vallée (Eds.), *Laboratory Phonology 10* (pp. 61–90). Berlin, New York: De Gruyter Mouton. https://doi.org/10.1515/9783110224917.1.61
+
+<a id="ref-romeo1967"></a>Romeo, L. (1967). On the phonemic status of the so-called ‘geminates’ in Italian. *Linguistics, 5*(29), 105–116.
+
+<a id="ref-swadesh1937"></a>Swadesh, M. (1937). The phonemic interpretation of long consonants. *Language, 13*(1), 1. https://doi.org/10.2307/409167
