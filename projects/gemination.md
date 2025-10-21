@@ -29,7 +29,7 @@ Most languages, however – including English – do not feature lexically contr
 
 ### Research focus
 
-My research focuses mainly on the **production of geminates** (though I have also co-authored a perception study) across four regional varieties of Italian: **Roman, Veneto, Calabrian, and Sardinian**.  
+My research focuses mainly on the **production of geminates** (though I have also co-authored a perception study: De Iacovo et al., [2025](#ref-deiacovo2025)) across four regional varieties of Italian: **Roman, Veneto, Calabrian, and Sardinian**.  
 
 Italian pronunciation varies considerably from region to region, and consonants are particularly sensitive to these differences. For example:
 
@@ -57,13 +57,13 @@ I am certainly not the first to ask this question. As early as Swadesh ([1937](#
 
 My findings suggest that cues **beyond timing** are key, with singletons and geminates in Italian being phonetically realised in distinct ways depending on the regional variety.  
 
-- While **consonant duration** remains the primary cue – especially for obstruents, that is, plosives such as /p/, fricatives such as /f/, and affricates such as the /t͡ʃ/ in *goccia* ‘drop’ – different varieties show additional, variety-specific correlates that contribute to the contrast.  
-- In **Roman Italian**, most intervocalic singletons tend to undergo lenition (as in *Il Papa*, seen above), whereas geminates resist this weakening, thereby reinforcing the opposition.  
-- In **Veneto Italian**, by contrast, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the relative contribution of the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction.
+- While **consonant duration** remains the primary cue – especially for obstruents, that is, plosives such as /p/, fricatives such as /f/, and affricates such as the /t͡ʃ/ in *goccia* ‘drop’ – different varieties show additional, variety-specific correlates that contribute to the contrast (thesis work).  
+- In **Roman Italian**, most intervocalic singletons tend to undergo lenition, surfacing as very short and partially voiced (as in *Il Papa*, seen above), whereas geminates resist this weakening, thereby reinforcing the opposition (Dian et al., [2024](#ref-dian2024)).  
+- In **Veneto Italian**, by contrast, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the relative contribution of the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction (Dian et al., [2024](#ref-dian2024)).
 
 ---
 
-### Articulatory correlates
+### Preaspiration and VOT
 
 To maintain “strong,” unlenited forms, speakers exert additional effort both at the **oral level** – using the lips or tongue to create tighter constrictions – and at the **laryngeal level**, in the “voice box,” where the vocal folds are located.  
 
@@ -71,7 +71,7 @@ This laryngeal adjustment spreads the vocal folds apart and often surfaces as **
 
 - In many varieties of Italian, aspiration occurs **before the consonant’s closure** – what phoneticians call *preaspiration*.  
 - In others, such as some **Calabrian** varieties, it occurs **after the closure**, producing what is known as *long-lag voice onset time (VOT)*.  
-- Preaspiration tends to mark “strong” voiceless sounds, including geminates, but it can also appear in single, unlenited consonants in northern varieties such as Veneto Italian.
+- Preaspiration tends to mark “strong” voiceless sounds, including geminates, but it can also appear in single, unlenited consonants in northern varieties such as Veneto Italian (Dian et al., [2023](#ref-dian2023)).
 
 ---
 
@@ -84,6 +84,12 @@ Stay tuned for updates and forthcoming publications! :-)
 ---
 
 ### References
+
+<a id="ref-deiacovo2025"></a>De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica, 82*(5). https://doi.org/10.1515/phon-2025-0012
+
+<a id="ref-dian2024"></a>Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent voicing and gemination: The case of Roman and Veneto Italian. *Languages, 9*(12), 383. https://doi.org/10.3390/languages9120383
+
+<a id="ref-dian2023"></a>Dian, A., Hajek, J., & Fletcher, J. (2023). Preaspiration in Italian voiceless geminate and singleton stops. In *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 888–892). Prague, Czech Republic.
 
 <a id="ref-altamimi2018"></a>Al-Tamimi, J., & Khattab, G. (2018). Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate stops. *Journal of Phonetics, 71*, 306–325. https://doi.org/10.1016/j.wocn.2018.09.010
 
