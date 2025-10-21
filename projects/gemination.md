@@ -49,7 +49,7 @@ One of the main questions driving my research is whether **gemination** – the 
 In other words:  
 > Are geminates simply longer than singletons, or do speakers and listeners also rely on other phonetic cues, beyond timing, to distinguish them across regional varieties?
 
-I am certainly not the first to ask this question. As early as Swadesh ([1937](#ref-swadesh1937)), scholars have associated gemination with the notion of articulatory “strength”. Several important theoretical and experimental studies have explored this relationship, including Romeo ([1967](#ref-romeo1967)), Leonard ([1968](#ref-leonard1968)), Hooper ([1976](#ref-hooper1976)), Catford ([1977](#ref-catford1977)), Hankamer et al. ([1989](#ref-hankamer1989)), and, more recently, Payne ([2005](#ref-payne2005); [2006](#ref-payne2006)), Ridouane ([2010](#ref-ridouane2010)), Al-Tamimi & Khattab ([2018](#ref-altamimi2018)), and Burroni et al. ([2024](#ref-burroni2024)).
+I am certainly not the first to ask this question. As early as Swadesh ([1937](#ref-swadesh1937)), scholars have associated gemination with the notion of articulatory “strength”, suggesting that it is not all about duration. Several important theoretical and experimental studies have explored this relationship, including Romeo ([1967](#ref-romeo1967)), Leonard ([1968](#ref-leonard1968)), Hooper ([1976](#ref-hooper1976)), Catford ([1977](#ref-catford1977)), Hankamer et al. ([1989](#ref-hankamer1989)), and, more recently, Payne ([2005](#ref-payne2005); [2006](#ref-payne2006)), Ridouane ([2010](#ref-ridouane2010)), Al-Tamimi & Khattab ([2018](#ref-altamimi2018)), and Burroni et al. ([2024](#ref-burroni2024)).
 
 ---
 
