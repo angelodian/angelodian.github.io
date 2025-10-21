@@ -57,9 +57,9 @@ I am certainly not the first to ask this question. As early as Swadesh ([1937](#
 
 My findings suggest that cues **beyond timing** are key, with singletons and geminates in Italian being phonetically realised in distinct ways depending on the regional variety.  
 
-- While **consonant duration** remains the primary cue – especially for obstruents such as plosives (/p/), fricatives (/f/), and affricates (as the /dʒ/ in *pioggia* ‘rain’) – different varieties show additional, variety-specific correlates that contribute to the contrast.  
+- While **consonant duration** remains the primary cue – especially for obstruents, that is, plosives such as /p/, fricatives such as /f/, and affricates such as the /dʒ/ in *pioggia* ‘rain’ – different varieties show additional, variety-specific correlates that contribute to the contrast.  
 - In **Roman Italian**, most intervocalic singletons tend to undergo lenition (as in *Il Papa*, seen above), whereas geminates resist this weakening, thereby reinforcing the opposition.  
-- In **Veneto Italian**, by contrast, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction.
+- In **Veneto Italian**, by contrast, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the relative contribution of the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction.
 
 ---
 
@@ -77,7 +77,7 @@ This laryngeal adjustment spreads the vocal folds apart and often surfaces as **
 
 ### Outlook
 
-My research on this topic is ongoing — I am currently analysing further data and examining perception in collaboration with colleagues.  
+My research on this topic is ongoing — I am currently analyzing further data and examining perception in collaboration with colleagues.  
 
 Stay tuned for updates and forthcoming publications! :-)
 
