@@ -17,9 +17,9 @@ title: "Research"
 
 # Current projects
 
-- **Prosodic traces of language contact (Italo-Romance ↔ Croatian)**  
-  Part of the ESRC-funded project *Mapping Prosody Convergence in the Eastern Mediterranean* (PI: Elinor Payne).  
-  Focus: prosodic/intonational convergence between Venetan/Italian and coastal Croatian varieties.
+- **Mapping Prosody Convergence in the Eastern Mediterranean (Italo-Romance ↔ Croatian)**  
+  Project funded by UK's Economic and Social Research Council (PI: Elinor Payne).  
+  Part of a broader project involving several languages across the Eastern Mediterranean. My focus is on prosodic/intonational convergence between Venetan/Italian and coastal Croatian varieties.
 
 - **Consonantal length (gemination) and strength in Italian** [→ Read more](projects/gemination.md)   
   Ongoing line from my PhD: acoustic and articulatory correlates of the long–short contrast across regional varieties; includes work on **preaspiration** and voice quality.
@@ -30,18 +30,6 @@ title: "Research"
 # Selected past & parallel lines
 
 - **Saliba-Logea (Illustration of the IPA)** — JIPA, forthcoming (with J. Hajek et al.).  
-- **Glottalised consonants in Waima’a (incl. ejectives)** — typological & phonetic review (in prep., with J. Hajek).  
+- **Glottalised consonants in Waima’a (incl. ejectives)** — typological & phonetic review (submitted, with J. Hajek).  
 - **Gemination in Modern Standard Arabic** — preliminary acoustic study on word-medial position (with A. Aldossary, J. Hajek, J. Fletcher).  
 - **Australian English rhotics (UTI)** — collaboration on articulatory analysis using ultrasound tongue imaging (Macquarie University, Sydney).
-
----
-
-## Representative outputs (selection)
-
-- Cross-regional voicing & gemination in Italian (Languages, 2024).  
-- Preaspiration & voice quality in Italian stops (SST 2024).  
-- Machine-learning cues to stop gemination across varieties (LabPhon 19, 2024).  
-- Near-merger /sː ~ ʃ/ in Veneto Italian (JASA abstract, 2023).  
-- Stop (de)gemination in Veneto Italian (SST 2022).  
-- Modern Standard Arabic gemination (SST 2024).  
-- Saliba-Logea (JIPA, forthcoming).
