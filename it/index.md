@@ -36,7 +36,7 @@ Un altro mio interesse di ricerca riguarda l’interazione tra lunghezza consona
 - Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
 
 ## Ultime notizie
-- Ago 2025 — Ho accettato un lavoro come ricercatore associato presso l'Università di Oxford, <a href="https://www.ling-phil.ox.ac.uk/">Facultà di Linguistics,  Filologia e Fonetica</a>, con inizio a novembre di quest’anno.  
+- Ago 2025 — Ho accettato un lavoro come ricercatore associato presso l'Università di Oxford, <a href="https://www.ling-phil.ox.ac.uk/">Facultà di Linguistica,  Filologia e Fonetica</a>, con inizio a novembre di quest’anno.  
 - Lug 2025 — Ho conseguito il dottorato di ricerca presso l'Università di Melbourne, <a href="https://arts.unimelb.edu.au/school-of-languages-and-linguistics">School of Languages and Linguistics</a>.
 
 ## Link
