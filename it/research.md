@@ -17,12 +17,12 @@ title: "Ricerca"
 
 # Progetti in corso
 
-- **Mapping Prosody Convergence in the Eastern Mediterranean (Italo-Romanze ↔ Croato)**  
+- **La Mappatura della Convergenza Prosodica nel Mediterraneo Orientale (Veneto/Italiano ↔ Croato)**  
   Progetto finanziato dall’*Economic and Social Research Council* (Regno Unito, PI: Elinor Payne).  
   Parte di un progetto più ampio che coinvolge diverse lingue dell’area mediterranea orientale.  
   Il mio contributo riguarda la convergenza prosodica e intonativa tra varietà venete/italiane e varietà croate costiere.
 
-- **Lunghezza e forza consonantica (geminazione) in italiano** [→ Leggi di più](../projects/gemination.md)  
+- **Lunghezza (geminazione) e forza consonantica in italiano** [→ Leggi di più](../projects/gemination.md)  
   Linea di ricerca sviluppata durante mio dottorato: analisi acustiche e articolatorie del contrasto lungo–breve nelle varietà regionali italiane; include studi su **preaspirazione** e qualità vocale.
 
 - **La “/l/ evanescente” nel veneto**  
