@@ -30,6 +30,6 @@ title: "Research"
 # Selected past & parallel lines
 
 - **Saliba-Logea (Illustration of the IPA)** — JIPA, forthcoming (second author - with J. Hajek et al.).  
-- **Glottalised consonants in Waima’a (incl. ejectives)** — typological & phonetic review (submitted and second author, with J. Hajek).  
+- **Glottalised consonants in Waima’a (incl. ejectives)** — typological & phonetic review (submitted as second author, with J. Hajek).  
 - **Gemination in Modern Standard Arabic** — preliminary acoustic study on word-medial position (second author - with A. Aldossary, J. Hajek, J. Fletcher).  
 - **Australian English rhotics (UTI)** — collaboration on articulatory analysis using ultrasound tongue imaging (Macquarie University, Sydney).
