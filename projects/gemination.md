@@ -19,11 +19,11 @@ title: "Gemination and Consonantal Strength in Italian"
 
 ### Overview
 
-What linguists call *geminate consonants* occur in many of the world’s languages, across several unrelated language families. They are common in Italian, where they are written with a double consonant in words such as *palla*, *pappa*, and *tuffo* (‘ball, mush, dive’), and they can form minimal pairs with their singleton counterparts: *pala*, *Papa*, *tufo* (‘shovel, Pope, tuff’).  
+What linguists call *geminate consonants* (also known as long or double consonants) occur in many of the world’s languages, across several unrelated language families. They are common in Italian, where they are written with a double consonant in words such as *palla*, *pappa*, and *tuffo* (‘ball, mush, dive’), and they can form minimal pairs with their singleton counterparts: *pala*, *Papa*, *tufo* (‘shovel, Pope, tuff’).  
 
-Beyond Italian, geminates are found in other Romance varieties spoken throughout central and southern Italy (for instance Umbrian, Neapolitan, and Sicilian), as well as in several non-Romance European languages, including the Germanic languages Swedish, Norwegian, and Icelandic, and the Uralic languages Finnish and Hungarian.  
+Beyond Italian, geminates are found in other Romance varieties (the so-called 'dialects') spoken throughout central and southern Italy (for instance Umbrian, Neapolitan, and Sicilian), as well as in several non-Romance European languages, including the Germanic languages Swedish, Norwegian, and Icelandic, and the Uralic languages Finnish and Hungarian.  
 
-Most languages, however – including English – do not feature lexically contrastive geminates, and speakers of such languages often find it difficult to perceive and produce them.
+Most languages, however – including English – don't feature lexically contrastive geminates (that is, they don't have minimal pairs such as Italian *pala* and *palla*) and speakers of such languages often find it difficult to perceive and produce them.
 
 ---
 
