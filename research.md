@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Research"
+title: "Ricerca"
 ---
 
 <p style="text-align:right; font-size:0.95rem;">
-  <a href="/it/research.html">🇮🇹 Italiano</a>
+  <a href="/research.html">🇬🇧 English</a>
 </p>
 
 <div style="max-width: 900px; margin: 0 auto;">
@@ -15,21 +15,21 @@ title: "Research"
 >
 </div>
 
-# Current projects
+# Progetti in corso
 
 - **Mapping Prosody Convergence in the Eastern Mediterranean**  
-  Project funded by UK's Economic and Social Research Council and based at the Faculty of Linguistics, Philology and Phonetics, University of Oxford (PI: Elinor Payne).  
-  My focus is on prosodic/intonational convergence between Venetan and coastal Croatian varieties.
+  Progetto finanziato dall’Economic and Social Research Council del Regno Unito e basato presso la Faculty of Linguistics, Philology and Phonetics, University of Oxford (PI: Elinor Payne).  
+  Il mio contributo riguarda la convergenza prosodica/intonativa tra varietà venete e varietà croate costiere.
 
-- **Consonantal length (gemination) and strength in Italian** [→ Read more](projects/gemination.md)   
-  Ongoing line from my PhD: acoustic and articulatory correlates of the long–short contrast across regional varieties; includes work on **preaspiration** and voice quality.
+- **Lunghezza e forza consonantica (geminazione) in italiano** [→ Leggi di più](../projects/gemination.md)  
+  Linea di ricerca sviluppata durante il mio dottorato: correlati acustici e articolatori del contrasto lungo–breve nelle varietà regionali italiane; include studi sulla **preaspirazione** e sulla qualità vocale.
 
-- **The “evanescent /l/” in Venetan**  
-  New articulatory + acoustic studies on the realization/weakening of /l/ in central Venetan (with F. Burroni).
+- **La “/l/ evanescente” nel veneto**  
+  Nuovi studi articolatori e acustici sulla realizzazione/indebolimento di /l/ nel veneto centrale (con F. Burroni).
 
-# Selected past & parallel lines
+# Linee di ricerca selezionate (passate o parallele)
 
-- **Saliba-Logea (Illustration of the IPA)** — JIPA, forthcoming (second author - with J. Hajek et al.).  
-- **Glottalised consonants in Waima’a (incl. ejectives)** — typological & phonetic review (submitted as second author, with J. Hajek).  
-- **Gemination in Modern Standard Arabic** — preliminary acoustic study on word-medial position (second author - with A. Aldossary, J. Hajek, J. Fletcher).  
-- **Australian English rhotics (UTI)** — collaboration on articulatory analysis using ultrasound tongue imaging (Macquarie University, Sydney).
+- **Saliba-Logea (Illustrazione dell’IPA)** — *Journal of the International Phonetic Association*, in uscita (secondo autore – con J. Hajek et al.).  
+- **Consonanti glottalizzate nel waima’a (incluse eiettive)** — rassegna tipologica e fonetica (sottomesso come secondo autore, con J. Hajek).  
+- **Geminazione nell’arabo standard moderno** — studio acustico preliminare sulla posizione intervocalica (secondo autore – con A. Aldossary, J. Hajek, J. Fletcher).  
+- **Rhotici dell’inglese australiano (UTI)** — collaborazione su analisi articolatorie tramite *ultrasound tongue imaging* (Macquarie University, Sydney).
