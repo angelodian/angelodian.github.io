@@ -33,7 +33,7 @@ My research focuses mainly on the **production of geminates** (though I have als
 
 Italian pronunciation varies considerably from region to region, and consonants are particularly sensitive to these differences. For example:
 
-- Speakers of **Roman Italian** and other centro-southern varieties often *lenite* – that is, weaken or soften – voiceless single consonants between vowels, so *Il Papa* (“the Pope”) may sound like *Il Paba* (transcribed [il pap̌a], with a voiced [p], in the [International Phonetic Alphabet (IPA)[(https://www.internationalphoneticassociation.org/content/ipa-chart), or alternatively [il pab̥a], with a *lenis* [b̥] in the [CanIPA](http://www.canipa.net).  
+- Speakers of **Roman Italian** and other centro-southern varieties often *lenite* – that is, weaken or soften – voiceless single consonants between vowels, so *Il Papa* (“the Pope”) may sound like *Il Paba* (transcribed [il pap̌a], with a voiced [p], in the [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/content/ipa-chart), or alternatively [il pab̥a], with a *lenis* [b̥] in the [CanIPA](http://www.canipa.net).  
 - In **Veneto Italian** and other northern varieties, geminates are said to be shortened, so *pappa* (“mush”) may sound more like *Papa*, although there are no experimental sources, as far as I know, that document this shortening.  
 - Some **Calabrian** varieties add aspiration to geminate /pp/, /tt/, and /kk/, but not to their single counterparts, producing for instance [papa] and [pappʰa].  
 - In **Sardinian Italian**, by contrast, the medial consonant in pairs such as *Papa* and *pappa* is typically pronounced with a similarly long duration in both words.
