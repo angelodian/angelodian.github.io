@@ -18,7 +18,7 @@ title: "Ricerca"
 # Progetti in corso
 
 - **Mapping Prosody Convergence in the Eastern Mediterranean**  
-  Progetto finanziato dall’Economic and Social Research Council del Regno Unito e basato presso la Faculty of Linguistics, Philology and Phonetics, University of Oxford (PI: Elinor Payne).  
+  Progetto finanziato dall’Economic and Social Research Council del Regno Unito e basato presso la Faculty of Linguistics, Philology and Phonetics, University of Oxford (investigatrice principale (PI): Elinor Payne).  
   Il mio contributo riguarda la convergenza prosodica/intonativa tra varietà venete e varietà croate costiere.
 
 - **Lunghezza e forza consonantica (geminazione) in italiano** [→ Leggi di più](../projects/gemination.md)  
