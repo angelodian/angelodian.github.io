@@ -17,9 +17,9 @@ title: "Research"
 
 # Current projects
 
-- **Mapping Prosody Convergence in the Eastern Mediterranean (Italo-Romance ↔ Croatian)**  
+- **Mapping Prosody Convergence in the Eastern Mediterranean**  
   Project funded by UK's Economic and Social Research Council (PI: Elinor Payne).  
-  Part of a broader project involving several languages across the Eastern Mediterranean. My focus is on prosodic/intonational convergence between Venetan/Italian and coastal Croatian varieties.
+  My focus is on prosodic/intonational convergence between Venetan and coastal Croatian varieties.
 
 - **Consonantal length (gemination) and strength in Italian** [→ Read more](projects/gemination.md)   
   Ongoing line from my PhD: acoustic and articulatory correlates of the long–short contrast across regional varieties; includes work on **preaspiration** and voice quality.
