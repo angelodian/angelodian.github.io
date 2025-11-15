@@ -22,7 +22,7 @@ title: "Ricerca"
   Il mio contributo riguarda la convergenza prosodica/intonativa tra varietà venete e varietà croate costiere.
 
 - **Geminazione e forza consonantica in italiano** [→ Leggi di più](../projects/gemination.md)  
-  Linea di ricerca sviluppata durante il mio dottorato: correlati acustici e articolatori del contrasto lungo–breve nelle varietà regionali italiane; include studi sulla **preaspirazione** e sulla qualità vocale.
+  Linea di ricerca sviluppata durante il mio dottorato: correlati acustici e articolatori del contrasto di durata consonantica (consonanti 'singole' e 'doppie') nelle varietà regionali italiane; include studi sulla **preaspirazione** e sulla qualità vocale.
 
 - **La “/l/ evanescente” nel veneto**  
   Nuovi studi articolatori e acustici sulla realizzazione/indebolimento di /l/ nel veneto centrale (con F. Burroni).
