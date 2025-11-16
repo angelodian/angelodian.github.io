@@ -43,4 +43,4 @@ Another research interest of mine concerns the interaction beween consonantal le
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=cxJR-XoAAAAJ&view_op=list_works&gmla=AH8HC4wMBlyS0v12N8_xttNhPKq8zW6k57LoHrmjEw-g2pIbas4kRSb_naHwU2_74mtHwGc8fd84PAKlGJRNPkE8)
 - [ResearchGate](https://researchgate.net/profile/Angelo_Dian)
 - [ORCID](https://orcid.org/0000-0003-0116-7403)
-- [Email](mailto:a.dian@unimelb.edu.au)
+- <a href="mailto:angelo.dian@ling-phil.ox.ac.uk">angelo.dian@<span style="display:none;">ling-phil.</span>ox.ac.uk
