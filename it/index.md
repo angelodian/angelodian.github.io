@@ -43,4 +43,3 @@ Un altro mio interesse di ricerca riguarda l’interazione tra lunghezza consona
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=cxJR-XoAAAAJ&view_op=list_works&gmla=AH8HC4wMBlyS0v12N8_xttNhPKq8zW6k57LoHrmjEw-g2pIbas4kRSb_naHwU2_74mtHwGc8fd84PAKlGJRNPkE8)  
 - [ResearchGate](https://researchgate.net/profile/Angelo_Dian)  
 - [ORCID](https://orcid.org/0000-0003-0116-7403)  
-- [Email](mailto:a.dian@unimelb.edu.au)
