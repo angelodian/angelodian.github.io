@@ -3,22 +3,27 @@ layout: page
 title: "Contact"
 ---
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" action="/thanks/">
+  <input type="hidden" name="form-name" value="contact">
+
   <p>
-    <label>Your Name:<br>
+    <label>Name:<br>
       <input type="text" name="name" required>
     </label>
   </p>
+
   <p>
-    <label>Your Email:<br>
+    <label>Email:<br>
       <input type="email" name="email" required>
     </label>
   </p>
+
   <p>
     <label>Message:<br>
-      <textarea name="message" rows="6" required></textarea>
+      <textarea name="message" rows="5" required></textarea>
     </label>
   </p>
+
   <p>
     <button type="submit">Send</button>
   </p>
