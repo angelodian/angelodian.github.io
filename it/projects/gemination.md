@@ -8,7 +8,7 @@ title: "Geminazione e forza consonantica in italiano"
 </p>
 
 <p style="text-align:right; font-size:0.95rem;">
-  <a href="it/projects/research.html">← Torna a Ricerca</a>
+  <a href="it/research.html">← Torna a Ricerca</a>
 </p>
 
 <div style="max-width: 900px; margin: 0 auto;">
