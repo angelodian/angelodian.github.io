@@ -57,7 +57,7 @@ I am certainly not the first to ask this question. As early as Swadesh ([1937](#
 
 My findings suggest that cues **beyond timing** are key, with singletons and geminates in Italian being phonetically realized in distinct ways depending on the regional variety.  
 
-- While **consonant duration** remains the primary cue – especially for obstruents, that is, plosives such as /p/, fricatives such as /f/, and affricates such as /t͡ʃ/ (as in *bacio* ‘kiss’) – different varieties show additional, variety-specific indices that contribute to the contrast. For instance:
+- While **consonant duration** remains the primary cue – especially for obstruents, that is, plosives such as /p/, fricatives such as /f/, and affricates such as /t͡ʃ/ (as the *c* in *bacio* ‘kiss’) – different varieties show additional, variety-specific indices that contribute to the contrast. For instance:
 - In **Roman Italian**, most intervocalic singletons tend to undergo lenition, surfacing as very short and partially voiced (as in *Il Papa*, seen above), whereas geminates resist this weakening, thereby reinforcing the opposition (Dian et al., [2024](#ref-dian2024)).  
 - In **Veneto Italian**, by contrast, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the relative contribution of the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction (Dian et al., [2024](#ref-dian2024)).
 
