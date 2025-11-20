@@ -3,7 +3,7 @@ layout: page
 title: "Gemination and Consonantal Strength in Italian"
 ---
 <p style="text-align:right; font-size:0.95rem;">
-  <a href="/it/projects/gemination.md">🇮🇹 Italiano</a>
+  <a href="/it/projects/gemination.html">🇮🇹 Italiano</a>
 </p>
 
 <p style="text-align:right; font-size:0.95rem;">
