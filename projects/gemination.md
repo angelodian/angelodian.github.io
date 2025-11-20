@@ -36,7 +36,7 @@ Italian pronunciation varies considerably from region to region, and consonants 
 - Speakers of **Roman Italian** and other centro-southern varieties often *lenite* – that is, they weaken or soften – voiceless single consonants between vowels. As a result, *Il Papa* (“the Pope”) may sound more like *Il Paba*. In phonetic transcription, this may appear as [il pap̌a], with a partly voiced [p̌], in the [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/content/ipa-chart), or as [il pab̥a], with a *lenis* [b̥], in alternative transcription systems such as the [CanIPA](http://www.canipa.net).
 - In **Veneto Italian** and other northern varieties, geminate consonants are often described as being shortened or not fully produced. As a consequence, *pappa* (“mush”) may sound closer to *Papa*. There may also be sociolinguistic differences: older and/or less formally educated speakers are sometimes described as showing this pattern more clearly, although no experimental studies have directly confirmed this.
 - Some **Calabrian** varieties add aspiration to geminate /pp/, /tt/, and /kk/, but not to their singleton counterparts. For example, one might hear [papa] versus [pappʰa].
-- In **Sardinian Italian**, by contrast, the medial consonant in pairs such as *Papa* and *pappa* is typically produced with a similarly long duration in both words.
+- In **Sardinian Italian** the medial consonant in pairs such as *Papa* and *pappa* can be produced with a similarly long duration in both words.
 
 Because of this rich regional variation, Italian provides a fascinating case study for exploring how geminates are produced and perceived within the same language.
 
@@ -55,11 +55,11 @@ I am certainly not the first to ask this question. As early as Swadesh ([1937](#
 
 ### Findings and interpretation
 
-My findings suggest that cues **beyond timing** are key, with singletons and geminates in Italian being phonetically realized in distinct ways depending on the regional variety.  
+My findings suggest that cues **beyond duration** are key, with singletons and geminates in Italian being phonetically realized in distinct ways depending on the regional variety.
 
 - While **consonant duration** remains the primary cue – especially for obstruents, that is, plosives such as /p/, fricatives such as /f/, and affricates such as /t͡ʃ/ (as the *c* in *bacio* ‘kiss’) – different varieties show additional, variety-specific indices that contribute to the contrast. For instance:
 - In **Roman Italian**, most intervocalic singletons tend to undergo lenition, surfacing as very short and partially voiced (as in *Il Papa*, seen above), whereas geminates resist this weakening, thereby reinforcing the opposition (Dian et al., [2024](#ref-dian2024)).  
-- In **Veneto Italian**, by contrast, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the relative contribution of the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction (Dian et al., [2024](#ref-dian2024)).
+- In **Veneto Italian**, intervocalic voiceless singletons are not lenited and often show longer durations, sometimes overlapping with geminates. In this variety, it is the relative contribution of the **preceding vowel** – which becomes shorter before geminates – that plays a crucial role in maintaining the singleton–geminate distinction (Dian et al., [2024](#ref-dian2024)).
 
 ---
 
@@ -71,7 +71,7 @@ In my data, this laryngeal "strength" is implemented by spreading the vocal fold
 
 - In many varieties, aspiration occurs **before the consonant’s closure** – what phoneticians call *preaspiration* (Dian et al., [2023](#ref-dian2023)).
 - In others, such as some **Calabrian** varieties, it occurs **after the closure**, producing what is known as *long-lag voice onset time (VOT)*, or in some cases *post-aspiration*.  
-- Preaspiration tends to mark “strong” voiceless sounds, including geminates, but it can also appear in single, unlenited consonants in northern varieties such as Veneto Italian (Dian et al., [2023](#ref-dian2023)).
+- Preaspiration tends to mark “strong” voiceless sounds, including geminates. Interestingly, it can also appear in single, unlenited voiceless consonants in northern varieties such as Veneto Italian, where they are are also longer compared to central varieties, as seen above (Dian et al., [2023](#ref-dian2023)). This lengthening, combined with the optional presence of prespiration, suggests that voiceless singletons can also be described as "strong" consonants in Veneto Italian. This is a fundamental difference from central and southern varieties, where voiceless singletons are often weakened articulatorily instead.
 
 ---
 
