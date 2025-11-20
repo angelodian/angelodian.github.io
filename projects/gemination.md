@@ -2,6 +2,9 @@
 layout: page
 title: "Gemination and Consonantal Strength in Italian"
 ---
+<p style="text-align:right; font-size:0.95rem;">
+  <a href="/it/">🇮🇹 Italiano</a>
+</p>
 
 <p style="text-align:right; font-size:0.95rem;">
   <a href="/research.html">← Back to Research</a>
