@@ -63,13 +63,13 @@ My findings suggest that cues **beyond timing** are key, with singletons and gem
 
 ---
 
-### Preaspiration and VOT
+### Pre- and post-aspiration, and their relationship with "strength"
 
-To maintain “strong” unlenited forms, speakers exert additional effort both at the **oral level** – using the lips or tongue to create tighter constrictions – and at the **laryngeal level**, in the “voice box,” where the vocal folds are located.  
+To maintain “strong” unlenited forms, speakers exert additional effort both at the **oral level** – using the lips or tongue to create tighter constrictions – and at the **laryngeal level**, that is, at the level of the larynx, also known as the "voice box", where the vocal folds are located.  
 
-In my data, this laryngeal "strength" is implemented by spreading the vocal folds apart, resulting in **aspiration**: a short, voiceless release of air, as in the initial sound of *hot*.  
+In my data, this laryngeal "strength" is implemented by spreading the vocal folds apart, resulting in **aspiration**: a short, voiceless release of air, as in the initial sound of *hot*. Interestingly, this aspiration can manifest itself differently across regional varieties of Italian:
 
-- In many varieties of Italian, aspiration occurs **before the consonant’s closure** – what phoneticians call *preaspiration*.  
+- In many varieties, aspiration occurs **before the consonant’s closure** – what phoneticians call *preaspiration* (Dian et al., [2023](#ref-dian2023)).
 - In others, such as some **Calabrian** varieties, it occurs **after the closure**, producing what is known as *long-lag voice onset time (VOT)*, or in some cases *post-aspiration*.  
 - Preaspiration tends to mark “strong” voiceless sounds, including geminates, but it can also appear in single, unlenited consonants in northern varieties such as Veneto Italian (Dian et al., [2023](#ref-dian2023)).
 
