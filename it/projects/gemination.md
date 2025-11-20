@@ -4,7 +4,7 @@ title: "Geminazione e forza consonantica in italiano"
 ---
 
 <p style="text-align:right; font-size:0.95rem;">
-  <a href="/projects/gemination.html">🇬🇧 English</a>
+  <a href="https://angelodian.github.io/projects/gemination.html">🇬🇧 English</a>
 </p>
 
 <div style="max-width: 900px; margin: 0 auto;">
