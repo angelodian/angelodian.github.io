@@ -67,7 +67,7 @@ I miei risultati mostrano che indici **non di durata** svolgono un ruolo importa
 
 ---
 
-### Pre-aspirazione, post-aspirazione e “forza”
+### Pre-aspirazione, post-aspirazione e “forza” consonantica
 
 Per mantenere forme “forti” e non lenite, i parlanti esercitano maggiore sforzo sia a livello **orale** (tramite gli articolatori come labbra e lingua) sia a livello **laringeo** (tramite le pliche — o corde — vocali nella laringe).
 
@@ -91,7 +91,7 @@ Rimanete aggiornati per nuove analisi e pubblicazioni! :-)
 
 <a id="ref-deiacovo2025"></a>De Iacovo, V., Dian, A., & Hajek, J. (2025). *The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia.* Phonetica, 82(5). https://doi.org/10.1515/phon-2025-0012
 
-<a id="ref-dian2025"></a>Dian, A. (2025). *An acoustic-phonetic analysis of the long-short consonant contrast in Italian obstruents across three regional varieties* [Doctoral dissertation, University of Melbourne]. https://doi.org/10.3390/languages9120383
+<a id="ref-dian2025"></a>Dian, A. (2025). *An acoustic-phonetic analysis of the long-short consonant contrast in Italian obstruents across three regional varieties* [Doctoral dissertation, University of Melbourne]. https://hdl.handle.net/11343/357116
 
 <a id="ref-dian2024"></a>Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent voicing and gemination: The case of Roman and Veneto Italian. *Languages, 9*(12), 383. https://doi.org/10.3390/languages9120383
 
