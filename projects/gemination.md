@@ -91,6 +91,7 @@ Stay tuned for updates and forthcoming publications! :-)
 <a id="ref-deiacovo2025"></a>De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica, 82*(5). https://doi.org/10.1515/phon-2025-0012
 
 <a id="ref-dian2025"></a>Dian, A. (2025). *An acoustic-phonetic analysis of the long-short consonant contrast in Italian obstruents across three regional varieties* [Doctoral dissertation, University of Melbourne]. https://doi.org/10.3390/languages9120383
+
 <a id="ref-dian2024"></a>Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent voicing and gemination: The case of Roman and Veneto Italian. *Languages, 9*(12), 383. https://doi.org/10.3390/languages9120383
 
 <a id="ref-dian2023"></a>Dian, A., Hajek, J., & Fletcher, J. (2023). Preaspiration in Italian voiceless geminate and singleton stops. In *Proceedings of the 20th International Congress of Phonetic Sciences* (pp. 888–892). Prague, Czech Republic.
