@@ -32,7 +32,7 @@ Most languages, however – including English – don't feature lexically contra
 
 ### Research focus
 
-My research focuses mainly on the **production of geminates** (though I have also co-authored a perception study: De Iacovo et al., [2025](#ref-deiacovo2025)) across four regional varieties of Italian: **Roman, Veneto, Calabrian, and Sardinian**. This line of research is ongoing from my PhD work (Dian, [2025](#ref-dian2025) - for access to my PhD thesis you can contact me [here](https://angelodian.github.io/contact.html))
+My research focuses mainly on the **production of geminates** (though I have also co-authored a perception study: De Iacovo et al., [2025](#ref-deiacovo2025)) across four regional varieties of Italian: **Roman, Veneto, Calabrian, and Sardinian**. This line of research is ongoing from my PhD work (Dian, [2025](#ref-dian2025)). For access to my PhD thesis you can contact me [here](https://angelodian.github.io/contact.html)).
 
 Italian pronunciation varies considerably from region to region, and consonants are particularly sensitive to these differences. For example:
 
