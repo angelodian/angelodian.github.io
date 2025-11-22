@@ -19,7 +19,7 @@ title: "Home"
 
 I'm a phonetician, so I'll start my introduction with the phonetic transcription of my name the way I say it, transcribed using the <a href="https://www.internationalphoneticassociation.org/content/ipa-chart">IPA alphabet</a>: [ˈɐnd͡ʒelo ˈdjɐŋ]. [ˈdjɐŋ], one syllable, with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto region of Italy, where I'm from. However, the rest of Italians tend to say [ˈdi.ɐn] (two syllables and an alveolar nasal at the end). Either pronunciation is fine to me :-)
 
-I'm excited to soon start a position as Postdoctoral Research Associate at the University of Oxford, where I'm joining the <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project *"Mapping Prosody Convergence in the Eastern Mediterranean"* led by PI Elinor Payne (temporary link <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">here</a>).
+I'm excited to soon start a position as Postdoctoral Research Associate in Phonetics at the University of Oxford, where I'm joining the <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project *"Mapping Prosody Convergence in the Eastern Mediterranean"* led by PI Elinor Payne (temporary link <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">here</a>).
 
 My research will focus on prosodic traces of language contact, such as intonation, between Italo-Romance varieties (mostly Venetan and Italian) and the varieties of Croatian spoken along the Adriatic coast in Istria and Dalmatia. 
 
@@ -37,7 +37,7 @@ Another research interest of mine concerns the interaction beween consonantal le
 
 ## Latest news
 - Nov 2025 — The start date of my post as Postdoctoral Research Associate at the <a href="https://www.ling-phil.ox.ac.uk/">Faculty of Linguistics, Philology and Phonetics, University of Oxford</a> is set for **24 November**. I look forward to be working on the <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project *"Mapping Prosody Convergence in the Eastern Mediterranean"* led by PI Elinor Payne!
-- Aug 2025 — I have accepted a post as Postdoctoral Research Associate at the University of Oxford (UK), starting in November this year.  
+- Aug 2025 — I have accepted a post as Postdoctoral Research Associate in Phonetics at the University of Oxford (UK), starting in November this year.  
 - Jul 2025 — I have been awarded a PhD from the <a href="https://arts.unimelb.edu.au/school-of-languages-and-linguistics">University of Melbourne, School of Languages and Linguistics</a> under the supervision of John Hajek and Janet Fletcher. Bibliographic information on my thesis "An acoustic-phonetic analysis of  the long-short consonant contrast in Italian across three regional varieties" can be found <a href="http://hdl.handle.net/11343/357116">here</a>.
 
 ## Links
