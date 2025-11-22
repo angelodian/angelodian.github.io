@@ -71,7 +71,7 @@ I miei risultati mostrano che indici **non di durata** svolgono un ruolo importa
 
 Per mantenere forme “forti” e non lenite, i parlanti esercitano maggiore sforzo sia a livello **orale** (tramite gli articolatori come labbra e lingua) sia a livello **laringeo** (tramite le pliche — o corde — vocali nella laringe).
 
-Nei miei dati, questa “forza” laringea si manifesta tramite l'**aspirazione**, cioè un'emissione di aria senza sonorità — simile al suono [h] in parole come l'inglese *hot*. La manifestazione dell'aspirazione puù cambiare a seconda della varietà:
+Nei miei dati, questa “forza” laringea si manifesta tramite l'**aspirazione**, cioè un'emissione di aria senza sonorità — simile al suono [h] in parole come l'inglese *hot*. La manifestazione dell'aspirazione può cambiare a seconda della varietà:
 
 - In molte varietà italiane l’aspirazione compare **prima della chiusura consonantica** (la cosiddetta *preaspirazione*) (Dian et al., [2023](#ref-dian2023)).  
 - In alcune varietà **calabresi**, compare **dopo la chiusura**, producendo un *voice onset time (VOT)* lungo, noto anche come *post-aspirazione*.  
