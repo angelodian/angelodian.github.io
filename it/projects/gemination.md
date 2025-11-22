@@ -33,7 +33,7 @@ Molte lingue, però — tra cui l’inglese — non possiedono geminate contrast
 
 ### Focus della ricerca
 
-La mia ricerca si concentra principalmente sulla **produzione delle geminate** (anche se ho co-firmato anche uno studio di percezione: De Iacovo et al., [2025](#ref-deiacovo2025)) in quattro varietà regionali dell’italiano: **romana, veneta, calabrese e sarda**.
+La mia ricerca si concentra principalmente sulla **produzione delle geminate** (anche se ho co-firmato anche uno studio di percezione: De Iacovo et al., [2025](#ref-deiacovo2025)) in quattro varietà regionali dell’italiano: **romana, veneta, calabrese e sarda**. Questo progetto si origina dal mio lavoro di dottorato (Dian, [2025](#ref-dian2025)). Per avere accesso alla mia tesi mi potete contattare [qui](https://angelodian.github.io/contact.html)).
 
 La pronuncia dell’italiano varia considerevolmente da una regione all’altra, e le consonanti sono particolarmente sensibili a tali differenze. Per esempio:
 
