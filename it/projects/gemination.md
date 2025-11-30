@@ -11,14 +11,6 @@ title: "Geminazione e forza consonantica in italiano"
   <a href="http://angelodian.github.io/it/research.html">← Torna a Ricerca</a>
 </p>
 
-<div style="max-width: 900px; margin: 0 auto;">
-  <img
-    src="/gemination.jpg"
-    alt="Gemination research illustration"
-    style="display:block; margin: 0 auto; width: 100%; max-width: 900px; height: auto; border-radius: 15px;"
-  >
-</div>
-
 ---
 
 ### Panoramica
