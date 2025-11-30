@@ -19,11 +19,11 @@ title: "Home"
 
 Sono un fonetista, quindi inizierò la mia presentazione con la trascrizione fonetica del mio nome come lo si dice in Veneto, trascritta usando l’<a href="https://www.internationalphoneticassociation.org/content/ipa-chart">alfabeto IPA</a>: [ˈand͡ʒelo ˈdjaŋ]. Il cognome [ˈdjaŋ] si pronuncia con una sillaba sola, quindi con con un dittongo, e una nasale velare finale. Fuori dal veneto la pronuncia tende ad essere [ˈdi.an] (due sillabe e una nasale alveolare finale). Entrambe le pronunce vanno benissimo :-)
 
-Tra poco inizierò un incarico come Ricercatore Associato presso l’Università di Oxford, dove mi unirò al progetto di ricerca finanziato dall’<a href="https://www.ukri.org/councils/esrc/">ESRC</a> “Mapping Prosody Convergence in the Eastern Mediterranean” ("La mappatura della convergenza prosodica nel mediterraneo orientale"), guidato dalla Investigatrice Principale Prof. Elinor Payne (link temporaneo <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">qui</a>).
+Al momento ricopro un incarico da Ricercatore Associato presso l’[Università di Oxford](https://www.ling-phil.ox.ac.uk/), dove sono parte del progetto di ricerca finanziato dall’<a href="https://www.ukri.org/councils/esrc/">ESRC</a> “Mapping Prosody Convergence in the Eastern Mediterranean” ("La mappatura della convergenza prosodica nel mediterraneo orientale"), guidato dalla Investigatrice Principale Prof. Elinor Payne (link temporaneo <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">qui</a>).
 
-La mia ricerca si concentrerà sulle tracce prosodiche del contatto linguistico, come l’intonazione, tra varietà italo-romanze (in particolare quella veneta e l'italiano) e le varietà di croato parlate lungo la costa adriatica, in Istria e in Dalmazia.  
+La mia ricerca si concentra sulle tracce prosodiche del contatto linguistico, come l’intonazione, tra varietà italo-romanze (in particolare quella veneta e l'italiano) e le varietà di croato parlate lungo la costa adriatica, in Istria e in Dalmazia.  
 
-Un altro mio interesse di ricerca riguarda l’interazione tra lunghezza consonantica (geminazione) e forza articolatoria in italiano e in altre lingue — un argomento che ho sviluppato e approfondito durante il mio dottorato presso l’Università di Melbourne.
+Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghezza consonantica (geminazione) e forza articolatoria in italiano e in altre lingue — un argomento che ho sviluppato e approfondito durante il mio dottorato presso l’Università di Melbourne.
 
 ---
 
