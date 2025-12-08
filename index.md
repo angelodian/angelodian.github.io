@@ -43,6 +43,7 @@ Another major research interest of mine concerns the interaction beween consonan
 - **Jul 2025** — I have been awarded a PhD from the <a href="https://arts.unimelb.edu.au/school-of-languages-and-linguistics">University of Melbourne, School of Languages and Linguistics</a> under the supervision of John Hajek and Janet Fletcher. Bibliographic information on my thesis "An acoustic-phonetic analysis of  the long-short consonant contrast in Italian across three regional varieties" can be found <a href="http://hdl.handle.net/11343/357116">here</a>. Feel free to [contact me](/contact.md) if you'd like to receive a copy of my thesis while it's under embargo.
 
 ## Links
+- [Oxford personal page](https://www.ling-phil.ox.ac.uk/people/angelo-dian)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=cxJR-XoAAAAJ&view_op=list_works&gmla=AH8HC4wMBlyS0v12N8_xttNhPKq8zW6k57LoHrmjEw-g2pIbas4kRSb_naHwU2_74mtHwGc8fd84PAKlGJRNPkE8)
 - [ResearchGate](https://researchgate.net/profile/Angelo_Dian)
 - [ORCID](https://orcid.org/0000-0003-0116-7403)
