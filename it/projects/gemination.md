@@ -15,9 +15,9 @@ title: "Geminazione e forza consonantica in italiano"
 
 ### Panoramica
 
-Le *consonanti geminate* (note anche come consonanti “lunghe” o “doppie”) compaiono in molte lingue del mondo, appartenenti a famiglie linguistiche anche molto diverse. Sono comuni in italiano, dove vengono scritte con una doppia consonante in parole come *palla*, *pappa* e *tuffo* (“palla, pappa, tuffo”), e possono formare coppie minime con le loro controparti semplici: *pala*, *Papa*, *tufo* (“pala, Papa, tufo”).  
+Le *consonanti geminate* (note anche come consonanti “lunghe” o “doppie”) compaiono in molte lingue del mondo, appartenenti a famiglie linguistiche anche molto diverse. Sono comuni in italiano, dove vengono scritte con una doppia consonante in parole come *palla*, *pappa* e *tuffo*, e possono formare coppie minime con le loro controparti semplici: *pala*, *Papa*, *tufo*.  
 
-Oltre all’italiano, le geminate si trovano in altre varietà romanze parlate nell’Italia centrale e meridionale (come l’umbro, il napoletano e il siciliano), nonché in diverse lingue europee non romanze, tra cui alcune lingue germaniche come lo svedese, il norvegese e l'islandese, e lingue uraliche come il finlandese e l'ungherese.  
+Oltre all’italiano, le geminate si trovano in altre varietà romanze parlate nell’Italia centrale e meridionale (come ad esempio l’umbro, il napoletano e il siciliano), nonché in diverse lingue europee non romanze, tra cui alcune lingue germaniche come lo svedese, il norvegese e l'islandese, e lingue uraliche come il finlandese e l'ungherese.  
 
 Molte lingue, però — tra cui l’inglese — non possiedono geminate contrastive a livello lessicale (cioè non hanno coppie minime come *pala* e *palla*), e i parlanti di tali lingue spesso trovano difficile percepirle e produrle.
 
@@ -45,7 +45,7 @@ Una delle domande centrali della mia ricerca è se la **geminazione** — il con
 In altre parole:  
 > Le geminate sono semplicemente più lunghe delle semplici, oppure i parlanti e gli ascoltatori sfruttano anche altri indici fonetici, oltre alla durata, per distinguerle nelle diverse varietà?
 
-Non sono certo il primo a porsi questo interrogativo. Già Swadesh ([1937](#ref-swadesh1937)) aveva collegato la geminazione alla nozione di “forza” articolatoria, suggerendo che non sia solo una questione di durata. Molti studi teorici e sperimentali hanno approfondito questo tema, tra cui Romeo ([1967](#ref-romeo1967)), Leonard ([1968](#ref-leonard1968)), Hooper ([1976](#ref-hooper1976)), Catford ([1977](#ref-catford1977)), Hankamer et al. ([1989](#ref-hankamer1989)), e più recentemente Payne ([2005](#ref-payne2005); [2006](#ref-payne2006)), Ridouane ([2010](#ref-ridouane2010)), Al-Tamimi & Khattab ([2018](#ref-altamimi2018)) e Burroni et al. ([2024](#ref-burroni2024)).
+Non sono certo il primo a porsi questo interrogativo. Già Swadesh ([1937](#ref-swadesh1937)) aveva collegato la geminazione alla nozione di “forza” articolatoria, suggerendo che non si tratti solo di durata. Molti studi teorici e sperimentali hanno approfondito questo tema, tra cui Romeo ([1967](#ref-romeo1967)), Leonard ([1968](#ref-leonard1968)), Hooper ([1976](#ref-hooper1976)), Catford ([1977](#ref-catford1977)), Hankamer et al. ([1989](#ref-hankamer1989)), e più recentemente Payne ([2005](#ref-payne2005); [2006](#ref-payne2006)), Ridouane ([2010](#ref-ridouane2010)), Al-Tamimi & Khattab ([2018](#ref-altamimi2018)) e Burroni et al. ([2024](#ref-burroni2024)).
 
 ---
 
