@@ -21,7 +21,7 @@ Sono un fonetista, quindi inizierò la mia presentazione con la trascrizione fon
 
 Al momento ricopro un incarico da Ricercatore Associato presso l’[Università di Oxford](https://www.ling-phil.ox.ac.uk/people/angelo-dian), dove sono parte del progetto di ricerca finanziato dall’<a href="https://www.ukri.org/councils/esrc/">ESRC</a> “Mapping Prosody Convergence in the Eastern Mediterranean” ("La mappatura della convergenza prosodica nel mediterraneo orientale"), guidato dalla Investigatrice Principale Prof. Elinor Payne (link temporaneo <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">qui</a>).
 
-La mia ricerca si concentra sulle tracce prosodiche del contatto linguistico, come l’intonazione, tra varietà italo-romanze (in particolare quella veneta e l'italiano) e le varietà di croato parlate lungo la costa adriatica, in Istria e in Dalmazia.  
+La mia ricerca si concentra sulle tracce prosodiche del contatto linguistico, come l’intonazione, tra varietà italo-romanze (in particolare quella veneta) e le varietà di croato parlate lungo la costa adriatica, in Istria e in Dalmazia.  
 
 Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghezza consonantica (geminazione) e forza articolatoria in italiano e in altre lingue — un argomento che ho sviluppato e approfondito durante il mio dottorato presso l’Università di Melbourne.
 
