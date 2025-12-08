@@ -43,6 +43,7 @@ Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghe
 - **Luglio 2025** — Ho conseguito il titolo di dottore di ricerca (PhD) presso la <a href="https://arts.unimelb.edu.au/school-of-languages-and-linguistics">School of Languages and Linguistics, University of Melbourne</a>, sotto la supervisione dei Prof. John Hajek e Janet Fletcher. Le informazioni bibliografiche sulla mia tesi, intitolata *"An acoustic-phonetic analysis of the long-short consonant contrast in Italian across three regional varieties"* (Un'analisi di fonetica acustica sul contrasto di durata consonantica in tre varietà regionali dell'italiano), sono disponibili <a href="http://hdl.handle.net/11343/357116">qui</a>. Se interessati, [contattatemi](/contact.md) per ricevere una copia della tesi.
 
 ## Link
+- [Oxford webpage](https://www.ling-phil.ox.ac.uk/people/angelo-dian)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=cxJR-XoAAAAJ&view_op=list_works&gmla=AH8HC4wMBlyS0v12N8_xttNhPKq8zW6k57LoHrmjEw-g2pIbas4kRSb_naHwU2_74mtHwGc8fd84PAKlGJRNPkE8)  
 - [ResearchGate](https://researchgate.net/profile/Angelo_Dian)  
 - [ORCID](https://orcid.org/0000-0003-0116-7403)
