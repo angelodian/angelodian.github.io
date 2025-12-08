@@ -72,7 +72,7 @@ In my data, this laryngeal "strength" is implemented by spreading the vocal fold
 
 ### Outlook
 
-My research on this topic is ongoing — I am currently analyzing further data and examining perception in collaboration with colleagues.  
+My research on this topic is ongoing — I am currently analysing further data and examining perception in collaboration with colleagues.  
 
 Stay tuned for updates and forthcoming publications! :-)
 
