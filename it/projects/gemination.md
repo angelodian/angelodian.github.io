@@ -54,8 +54,8 @@ Non sono certo il primo a porsi questo interrogativo. Già Swadesh ([1937](#ref-
 I miei risultati mostrano che indici **non di durata** svolgono un ruolo importante: le semplici e le geminate in italiano vengono realizzate foneticamente in modi distinti a seconda della varietà regionale.
 
 - Sebbene la **durata consonantica** rimanga il principale indizio — soprattutto per le occlusive (/p/), le fricative (/f/) e le affricate (/t͡ʃ/, come la *c* in *bacio*) — le varie varietà mostrano ulteriori correlati specifici. Ad esempio:
-- Nell’**italiano romano**, molte consonanti intervocaliche semplici subiscono lenizione e risultano molto brevi e parzialmente sonore, mentre le geminate resistono all’indebolimento, rafforzando il contrasto (Dian et al., [2024](#ref-dian2024)).  
-- Nell’**italiano veneto**, le occlusive sorde intervocaliche non si leniscono e spesso presentano durate più lunghe, talvolta sovrapponendosi alle geminate. Qui è il ruolo della **vocale precedente** — che si accorcia prima delle geminate — a mantenere il contrasto semplice–geminata (Dian et al., [2024](#ref-dian2024)).
+- Nell’**italiano di Roma**, molte consonanti intervocaliche semplici subiscono lenizione e risultano molto brevi e parzialmente sonore, mentre le geminate resistono all’indebolimento, rafforzando il contrasto (Dian et al., [2024](#ref-dian2024)).  
+- Nell’**italiano del Veneto**, le occlusive sorde intervocaliche non si leniscono e spesso presentano durate più lunghe, talvolta sovrapponendosi alle geminate. Qui è il ruolo della **vocale precedente** — che si accorcia prima delle geminate — a mantenere il contrasto semplice–geminata (Dian et al., [2024](#ref-dian2024)).
 
 ---
 
