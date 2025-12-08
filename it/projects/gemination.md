@@ -10,7 +10,7 @@ title: "Geminazione e forza consonantica in italiano"
 <p style="text-align:right; font-size:0.95rem;">
   <a href="http://angelodian.github.io/it/research.html">← Torna a Ricerca</a>
 </p>
-
+  
 ---
 
 ### Panoramica
