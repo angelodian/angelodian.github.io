@@ -19,7 +19,7 @@ title: "Home"
 
 I'm a phonetician, so I'll start my introduction with the phonetic transcription of my name the way I say it, transcribed using the <a href="https://www.internationalphoneticassociation.org/content/ipa-chart">IPA alphabet</a>: [ˈɐnd͡ʒelo ˈdjɐŋ]. [ˈdjɐŋ], one syllable, with a diphthong and a velar nasal at the end, is how people say my surname in the Veneto region of Italy, where I'm from. However, the rest of Italians tend to say [ˈdi.ɐn] (two syllables and an alveolar nasal at the end). Either pronunciation is fine to me :-)
 
-I currently hold a post as a Postdoctoral Research Associate in Phonetics at the [University of Oxford](https://www.ling-phil.ox.ac.uk/) as part of the <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project *"Mapping Prosody Convergence in the Eastern Mediterranean"* led by PI Elinor Payne (temporary link <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">here</a>).
+I currently hold a post as a Postdoctoral Research Associate in Phonetics at the [University of Oxford](https://www.ling-phil.ox.ac.uk/people/angelo-dian) as part of the <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project *"Mapping Prosody Convergence in the Eastern Mediterranean"* led by PI Elinor Payne (temporary link <a href="https://gtr.ukri.org/projects?ref=ES%2FY005767%2F1">here</a>).
 
 For this project, my research focuses on prosodic traces of language contact, such as intonation, between Italo-Romance varieties (mostly Venetan and Italian) and the varieties of Croatian spoken along the Adriatic coast in Istria and Dalmatia. 
 
