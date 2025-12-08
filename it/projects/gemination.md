@@ -17,7 +17,7 @@ title: "Geminazione e forza consonantica in italiano"
 
 Le *consonanti geminate* (note anche come consonanti “lunghe” o “doppie”) compaiono in molte lingue del mondo, appartenenti a famiglie linguistiche anche molto diverse. Sono comuni in italiano, dove vengono scritte con una doppia consonante in parole come *palla*, *pappa* e *tuffo*, e possono formare coppie minime con le loro controparti semplici: *pala*, *Papa*, *tufo*.  
 
-Oltre all’italiano, le geminate si trovano in altre varietà romanze parlate nell’Italia centrale e meridionale (come ad esempio l’umbro, il napoletano e il siciliano), nonché in diverse lingue europee non romanze, tra cui alcune lingue germaniche come lo svedese, il norvegese e l'islandese, e lingue uraliche come il finlandese e l'ungherese.  
+Oltre all’italiano, le geminate si trovano in altre varietà romanze (i cosiddetti "dialetti") parlate nell’Italia centrale e meridionale (come ad esempio l’umbro, il napoletano e il siciliano), nonché in diverse lingue europee non romanze, tra cui alcune lingue germaniche come lo svedese, il norvegese e l'islandese, e lingue uraliche come il finlandese e l'ungherese.  
 
 Molte lingue, però — tra cui l’inglese — non possiedono geminate contrastive a livello lessicale (cioè non hanno coppie minime come *pala* e *palla*), e i parlanti di tali lingue spesso trovano difficile percepirle e produrle.
 
