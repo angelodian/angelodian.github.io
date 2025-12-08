@@ -32,4 +32,4 @@ title: "Ricerca"
 - **Saliba-Logea (Illustrazione dell’IPA)** — *Journal of the International Phonetic Association*, in uscita (secondo autore – con J. Hajek et al.).  
 - **Consonanti glottalizzate nel Waima’a (incluse eiettive)** — rassegna tipologica e fonetica (inviato come secondo autore, con J. Hajek).  
 - **Geminazione nell’arabo standard moderno** — studio acustico preliminare sulla posizione intervocalica (secondo autore – con A. Aldossary, J. Hajek, J. Fletcher).  
-- **Rhotici dell’inglese australiano (UTI)** — collaborazione su analisi articolatorie tramite *ultrasound tongue imaging* (Macquarie University, Sydney).
+- **Consonanti rotiche nell'inglese australiano (UTI)** — collaborazione su analisi articolatorie tramite *ultrasound tongue imaging* (Macquarie University, Sydney).
