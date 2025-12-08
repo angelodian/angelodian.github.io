@@ -32,7 +32,6 @@ Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghe
 
 ## Pubblicazioni recenti
 - Hajek J., Dian A., Ford C., Stevens M. e Margetts A. (2025) Saliba-Logea. *Journal of the International Phonetic Association*. Pubblicato online 2025:1–18. [Link DOI](https://doi.org/10.1017/S0025100325100777)
-(https://doi.org/10.1017/S0025100325100777). È entusiasmante aver contribuito alla documentazione fonetica di una lingua in pericolo!
 - De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
 - Dian, A., Hajek, J., & Fletcher, J. (2024a). Cross-Regional Patterns of Obstruent Voicing and Gemination: The Case of Roman and Veneto Italian. *Languages*, 9(12), 383. [DOI link](https://doi.org/10.3390/languages9120383)
 - Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
