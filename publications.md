@@ -23,6 +23,8 @@ Hajek, J., Dian, A., Ford, C., Stevens, M., & Margetts, A. (Forthcoming). Saliba
 
 ## Conference Proceedings
 
+Dian A, Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
+
 Dian, A., Hajek, J., & Fletcher, J. (Forthcoming). ‘Che ro[b(b)]a!’ – Durational patterns of word-medial intervocalic /b dʒ/ across three regional varieties of Italian. In *Proceedings of AISV 2025*, Urbino, Italy.  
 
 Dian, A., Hajek, J., & Fletcher, J. (2024). An acoustic and electroglottographic (EGG) investigation of preaspiration and voice quality in the Italian four-way stop contrast across regional accents. In *Proceedings of the 19th Australasian International Conference on Speech Science and Technology* (pp. 147–150). Melbourne, Australia.  
