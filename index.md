@@ -31,7 +31,8 @@ Another major research interest of mine concerns the interaction beween consonan
 [Coming soon](#)
 
 ## Recent publications
-- Hajek J., Dian A., Ford C., Stevens M., & Margetts A. (2025) Saliba-Logea. *Journal of the International Phonetic Association*. Published online 2025:1-18. [DOI link](https://doi.org/10.1017/S0025100325100777)
+- Dian A, Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
+- Hajek J., Dian A., Ford C., Stevens M., & Margetts A. (2025). Saliba-Logea. *Journal of the International Phonetic Association*. Published online 2025:1-18. [DOI link](https://doi.org/10.1017/S0025100325100777)
 - De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
 - Dian, A., Hajek, J., & Fletcher, J. (2024a). Cross-Regional Patterns of Obstruent Voicing and Gemination: The Case of Roman and Veneto Italian. *Languages*, 9(12), 383. [DOI link](https://doi.org/10.3390/languages9120383)
 - Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
