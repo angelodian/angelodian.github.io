@@ -43,10 +43,6 @@ Dian, A., Hajek, J., & Fletcher, J. (2022). Stop (de)gemination in Veneto Italia
 
 ## Lavori in corso
 
-Dian, A., & Burroni, F. (Submitted). The ‘evanescent /l/’ in Venetan: A preliminary EMA study. *International Conference on Phonetic Variation*, Granada (Spain) 2026.  
-
-Dian, A., Burroni, F., & Hajek, J. (Submitted). The ‘evanescent /l/’ in central Venetan: A first articulatory-based account. *Going Romance*, Venice (Italy) 2025.  
-
 Payne, E., & Dian, A. (In preparation). The intonation of polar questions and declarative rises in central Venetan. [For submission to *Journal of Laboratory Phonology*].  
 
 Dian, A., & Burroni, F. (In preparation). Multiple acoustic cues to the singleton-geminate contrast in Italian across regional varieties and speech rates.  
