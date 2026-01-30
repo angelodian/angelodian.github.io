@@ -11,17 +11,19 @@ title: "Pubblicazioni"
 
 ## Articoli su rivista
 
+Hajek, J., Dian, A., Ford, C., Stevens, M., & Margetts, A. (2025). Saliba-Logea. *Journal of the International Phonetic Association.*  
+
 De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica, 82*(5). https://doi.org/10.1515/phon-2025-0012  
 
 Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent voicing and gemination: The case of Roman and Veneto Italian. *Languages, 9*(12), 383. https://doi.org/10.3390/languages9120383  
 
 Dian, A., Hajek, J., & Fletcher, J. (In review). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association.*  
 
-Hajek, J., Dian, A., Ford, C., Stevens, M., & Margetts, A. (Forthcoming). Saliba-Logea. *Journal of the International Phonetic Association.*  
-
 ---
 
 ## Atti di conferenza
+
+Dian A, Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
 
 Dian, A., Hajek, J., & Fletcher, J. (Forthcoming). ‘Che ro[b(b)]a!’ – Durational patterns of word-medial intervocalic /b dʒ/ across three regional varieties of Italian. In *Proceedings of AISV 2025*, Urbino, Italy.  
 
