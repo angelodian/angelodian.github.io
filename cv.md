@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-Coming soon.
+[Download my CV](SD_CV2_MAR26.pdf)
