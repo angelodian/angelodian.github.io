@@ -28,7 +28,7 @@ Another major research interest of mine concerns the interaction beween consonan
 ---
 
 ## CV
-[Download my CV (PDF)](AD_CV2_MAR26final.pdf)
+[Download my CV (PDF)](AD_CV_MAR26final.pdf)
 
 ## Recent publications
 - Dian A., Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
