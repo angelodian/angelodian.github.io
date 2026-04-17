@@ -39,7 +39,7 @@ Another major research interest of mine concerns the interaction beween consonan
 
 ## Latest news
 - **Apr 2026** - I have recently given two talks on Venetan at international conferences. At [(BAAP at Warwick (UK))](https://warwick.ac.uk/fac/soc/al/research/baap2026/) this month Elinor Payne and I presented 'disambiguating intonational rises in a Venetan dialect. At [(ICPhoV at Granada (Spain)](https://blogs.ugr.es/icphov/) I introduced 'the ‘evanescent /l/’ in Venetan: a preliminary EMA study', conducted with Francesco Burroni (IPS, LMU Munich).
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; justify-content: flex-start; margin-left: 10;">
   <img src="1775818906190.jpeg" height="400">
   <img src="1770059545240.jpeg" height="400">
 </div>
