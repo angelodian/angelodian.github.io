@@ -39,10 +39,10 @@ Another major research interest of mine concerns the interaction beween consonan
 
 ## Latest news
 - **Apr 2026** - I have recently given two talks on Venetan at international conferences. At [(BAAP at Warwick (UK))](https://warwick.ac.uk/fac/soc/al/research/baap2026/) this month Elinor Payne and I presented 'disambiguating intonational rises in a Venetan dialect. At [(ICPhoV at Granada (Spain)](https://blogs.ugr.es/icphov/) I introduced 'the ‘evanescent /l/’ in Venetan: a preliminary EMA study', conducted with Francesco Burroni (IPS, LMU Munich).
-<div style="display: flex; gap: 10px; justify-content: flex-start; margin-left: 10;">
-  <img src="1775818906190.jpeg" height="400">
-  <img src="1770059545240.jpeg" height="400">
-</div>
+  <div style="display: flex; gap: 10px;">
+    <img src="1775818906190.jpeg" height="400">
+    <img src="1770059545240.jpeg" height="400">
+  </div>
 
 - **Dec 2025** - An illustration of the IPA for Saliba-Logea (a language of Papua New Guinea) by John Hajek and other authors including myself, has been published in the Journal of the International Phonetic Association [(link here)](https://doi.org/10.1017/S0025100325100777). It's exciting to have contributed to the phonetic documentation of an endangered language!
 - **Nov 2025** — The start date of my post as Postdoctoral Research Associate in Phonetics at the <a href="https://www.ling-phil.ox.ac.uk/">Faculty of Linguistics, Philology and Phonetics, University of Oxford</a> is set for **24 November**. I look forward to be working on the exciting <a href="https://www.ukri.org/councils/esrc/">ESRC</a>-funded research project *"Mapping Prosodic Convergence in the Eastern Mediterranean"*.
