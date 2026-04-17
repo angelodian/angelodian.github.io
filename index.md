@@ -38,7 +38,7 @@ Another major research interest of mine concerns the interaction beween consonan
 - Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
 
 ## Latest news
-- **Apr 2026** - I have recently given two talks on Venetan at international conferences. At [BAAP at Warwick (UK)](https://warwick.ac.uk/fac/soc/al/research/baap2026/) this month Elinor Payne and I presented 'disambiguating intonational rises in a Venetan dialect. At [ICPhoV at Granada (Spain)](https://blogs.ugr.es/icphov/) in January I talked about 'the ‘evanescent /l/’ in Venetan: a preliminary EMA study', conducted with Francesco Burroni (IPS, LMU Munich).
+- **Apr 2026** - I have recently given two talks on Venetan at international conferences. At [BAAP at Warwick (UK)](https://warwick.ac.uk/fac/soc/al/research/baap2026/) this month Elinor Payne and I presented 'disambiguating intonational rises in a Venetan dialect'. At [ICPhoV at Granada (Spain)](https://blogs.ugr.es/icphov/) in January I talked about 'the ‘evanescent /l/’ in Venetan: a preliminary EMA study', conducted with Francesco Burroni (IPS, LMU Munich).
   <div style="display: flex; gap: 10px;">
     <img src="1775818906190.jpeg" height="400">
     <img src="1770059545240.jpeg" height="400">
