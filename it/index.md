@@ -38,6 +38,11 @@ Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghe
 - Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
 
 ## Ultime notizie
+- **Apr 2026** - Ho di recente presentato alcuni risultati di ricerca sul veneto. A [BAAP presso Warwick (UK)](https://warwick.ac.uk/fac/soc/al/research/baap2026/) questo mese ho presentato assieme ad Elinor Payne uno studio intitolato 'la disambiguazione delle intonazioni ascendenti in una varietà veneta'. A [ICPhoV presso Granada (Spagna)](https://blogs.ugr.es/icphov/) a gennaio ho discusso 'la elle evanescente veneta: uno studio EMA', in collaborazione con Francesco Burroni (IPS, LMU Munich).
+  <div style="display: flex; gap: 10px;">
+    <img src="1775818906190.jpeg" height="400">
+    <img src="1770059545240.jpeg" height="400">
+  </div>
 - **Dicembre 2025** – Un'illustrazione dell'IPA per il saliba-logea (una lingua del Papua Nuova Guinea), a cura di John Hajek e altri autori tra cui il sottoscritto, è stata pubblicata sul *Journal of the International Phonetic Association* [(link qui)](https://doi.org/10.1017/S0025100325100777). Il saliba è una lingua a rischio d'estinzione, ed è un onore aver contribuito alla sua documentazione!
 - **Novembre 2025** — La data di inizio del mio incarico da ricercatore associato in presso la <a href="https://www.ling-phil.ox.ac.uk/">Faculty of Linguistics, Philology and Phonetics, University of Oxford</a> è fissata per il **24 novembre**. Non vedo l’ora di mettermi a lavorare al progetto di ricerca *"Mapping Prosodic Convergence in the Eastern Mediterranean"*, finanziato dal <a href="https://www.ukri.org/councils/esrc/">Economic and Social Research Council (ESRC)</a>.
 - **Agosto 2025** — Ho accettato un incarico come *Postdoctoral Research Associate in Phonetics* presso l’Università di Oxford (Regno Unito), con inizio previsto per novembre di quest’anno.  
