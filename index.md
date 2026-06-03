@@ -31,6 +31,7 @@ Another major research interest of mine concerns the interaction beween consonan
 [Download my CV (PDF)](AD_CV_MAR26final.pdf)
 
 ## Recent publications
+- Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association*, FirstView. https://doi.org/10.1017/S0025100325100881
 - Dian A., Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
 - Hajek J., Dian A., Ford C., Stevens M., & Margetts A. (2025). Saliba-Logea. *Journal of the International Phonetic Association*. Published online 2025:1-18. [DOI link](https://doi.org/10.1017/S0025100325100777)
 - De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
