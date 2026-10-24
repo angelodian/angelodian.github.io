@@ -31,14 +31,16 @@ Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghe
 [In arrivo](#)
 
 ## Pubblicazioni recenti
-- Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association*, FirstView. https://doi.org/10.1017/S0025100325100881
-- Dian A, Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
-- Hajek J., Dian A., Ford C., Stevens M. e Margetts A. (2025) Saliba-Logea. *Journal of the International Phonetic Association*. Pubblicato online 2025:1–18. [Link DOI](https://doi.org/10.1017/S0025100325100777)
-- De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
-- Dian, A., Hajek, J., & Fletcher, J. (2024a). Cross-Regional Patterns of Obstruent Voicing and Gemination: The Case of Roman and Veneto Italian. *Languages*, 9(12), 383. [link DOI](https://doi.org/10.3390/languages9120383)
-- Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
+- Dian, A., Baltazani, M., Armostis, S., & Payne, E. (2026). Reconciling dynamic data analysis with linguistic reality: comparing legendre polynomial modelling and GAMM applied to prosodic contact. *Proceedings of Interspeech 2026*, 560–564.
+- Payne, E., & Dian, A. (2026). Broad focus rise(-fall) declaratives in Venetan: investigating typological outliers in Italo-Romance intonation. *Proceedings of Interspeech 2026*, 3716–3720.
+- Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association*, 56, e7. https://doi.org/10.1017/S0025100325100881
+- Dian A., Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
 
 ## Ultime notizie
+- **Oct 2026** - Tornato di recente da Sydney, Australia, dove ho partecipato ad Interspeech 2026. È stata una magnifica sorpresa vincere il "Best scientific communication award" da parte di ASSTA :-) Ecco una foto di me mentre lo ricevo sul palco durante la cerimonia di chiusura:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 15px 0;">
+  <img src="https://angelodian.github.io/interspeech2026.JPG" style="height: auto; max-height: 350px; max-width: 100%; border-radius: 4px;">
+</div>
 - **Jul 2026** - Entrambi gli articoli dal progetto ESRC "Mapping Prosody" che abbiamo inviato a Interspeech 2026 sono stati accettati! Interspeech si terrà a Sydney, in Australia, a settembre di quest'anno. I due articoli si intitolano "Broad focus rise(-fall) declaratives in Venetan: investigating typological outliers in Italo-Romance intonation" e "Reconciling dynamic data analysis with linguistic reality: comparing Legendre Polynomial Modelling and GAMM applied to prosodic contact". È quasi ora di volare di nuovo "Down Under" :-)
 - **Apr 2026** - Ho di recente presentato alcuni risultati di ricerca sul veneto. A [BAAP presso Warwick (UK)](https://warwick.ac.uk/fac/soc/al/research/baap2026/) questo mese ho presentato assieme ad Elinor Payne uno studio intitolato 'la disambiguazione delle intonazioni ascendenti in una varietà veneta'. A [ICPhoV presso Granada (Spagna)](https://blogs.ugr.es/icphov/) a gennaio ho discusso 'la elle evanescente veneta: uno studio EMA', in collaborazione con Francesco Burroni (IPS, LMU Munich).
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 15px 0;">
@@ -46,9 +48,6 @@ Un altro mio principale interesse di ricerca riguarda l’interazione tra lunghe
   <img src="https://angelodian.github.io/1770059545240.jpeg" style="height: auto; max-height: 350px; max-width: 100%; border-radius: 4px;">
 </div>
 - **Dicembre 2025** – Un'illustrazione dell'IPA per il saliba-logea (una lingua del Papua Nuova Guinea), a cura di John Hajek e altri autori tra cui il sottoscritto, è stata pubblicata sul *Journal of the International Phonetic Association* [(link qui)](https://doi.org/10.1017/S0025100325100777). Il saliba è una lingua a rischio d'estinzione, ed è un onore aver contribuito alla sua documentazione!
-- **Novembre 2025** — La data di inizio del mio incarico da ricercatore associato in presso la <a href="https://www.ling-phil.ox.ac.uk/">Faculty of Linguistics, Philology and Phonetics, University of Oxford</a> è fissata per il **24 novembre**. Non vedo l’ora di mettermi a lavorare al progetto di ricerca *"Mapping Prosodic Convergence in the Eastern Mediterranean"*, finanziato dal <a href="https://www.ukri.org/councils/esrc/">Economic and Social Research Council (ESRC)</a>.
-- **Agosto 2025** — Ho accettato un incarico come *Postdoctoral Research Associate in Phonetics* presso l’Università di Oxford (Regno Unito), con inizio previsto per novembre di quest’anno.  
-- **Luglio 2025** — Ho conseguito il titolo di dottore di ricerca (PhD) presso la <a href="https://arts.unimelb.edu.au/school-of-languages-and-linguistics">School of Languages and Linguistics, University of Melbourne</a>, sotto la supervisione dei Prof. John Hajek e Janet Fletcher. Le informazioni bibliografiche sulla mia tesi, intitolata *"An acoustic-phonetic analysis of the long-short consonant contrast in Italian across three regional varieties"* (Un'analisi di fonetica acustica sul contrasto di durata consonantica in tre varietà regionali dell'italiano), sono disponibili <a href="http://hdl.handle.net/11343/357116">qui</a>. Se interessati, [contattatemi](/contact.md) per ricevere una copia della tesi.
 
 ## Link
 - [Oxford webpage](https://www.ling-phil.ox.ac.uk/people/angelo-dian)
