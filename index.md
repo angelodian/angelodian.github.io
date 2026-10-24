@@ -31,14 +31,16 @@ Another major research interest of mine concerns the interaction beween consonan
 [Download my CV (PDF)](AD_CV_MAR26final.pdf)
 
 ## Recent publications
-- Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association*, FirstView. https://doi.org/10.1017/S0025100325100881
+- Dian, A., Baltazani, M., Armostis, S., & Payne, E. (2026). Reconciling dynamic data analysis with linguistic reality: comparing legendre polynomial modelling and GAMM applied to prosodic contact. *Proceedings of Interspeech 2026*, 560–564.
+- Payne, E., & Dian, A. (2026). Broad focus rise(-fall) declaratives in Venetan: investigating typological outliers in Italo-Romance intonation. *Proceedings of Interspeech 2026*, 3716–3720.
+- Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association*, 56, e7. https://doi.org/10.1017/S0025100325100881
 - Dian A., Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
-- Hajek J., Dian A., Ford C., Stevens M., & Margetts A. (2025). Saliba-Logea. *Journal of the International Phonetic Association*. Published online 2025:1-18. [DOI link](https://doi.org/10.1017/S0025100325100777)
-- De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5). 
-- Dian, A., Hajek, J., & Fletcher, J. (2024a). Cross-Regional Patterns of Obstruent Voicing and Gemination: The Case of Roman and Veneto Italian. *Languages*, 9(12), 383. [DOI link](https://doi.org/10.3390/languages9120383)
-- Dian, A., Hajek, J., & Fletcher, J. (2024b). An Acoustic and Electroglottographic (EGG) Investigation of Preaspiration and Voice Quality in the Italian Four-Way Stop Contrast across Regional Accents. *Proceedings of the 19th Australasian International Conference on Speech Science and Technology (SST)*. Melbourne, Australia.
 
 ## Latest news
+- **Oct 2026** - I had a great time at Interspeech 2026, Sydney! It was a wonderful surprise to be awarded the "Best scientific communication award" by ASSTA :-) Here's me receiving it on stage during the closing ceremony:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 15px 0;">
+  <img src="interspeech2026.jpeg" style="height: auto; max-height: 350px; max-width: 100%; border-radius: 4px;">
+</div>
 - **Jul 2026** - Both papers from the ESRC project "Mapping Prosody" we submitted to Interspeech 2026 have been accepted! Interspeech is taking place in Sydney, Australia, in September this year. The two papers are titled "Broad focus rise(-fall) declaratives in Venetan: investigating typological outliers in Italo-Romance intonation" "Reconciling dynamic data analysis with linguistic reality: comparing Legendre Polynomial Modelling and GAMM applied to prosodic contact". Time to fly back Down Under soon :-)
 - **Apr 2026** - I have recently given two talks on Venetan at international conferences. At [BAAP at Warwick (UK)](https://warwick.ac.uk/fac/soc/al/research/baap2026/) this month Elinor Payne and I presented 'disambiguating intonational rises in a Venetan dialect'. At [ICPhoV at Granada (Spain)](https://blogs.ugr.es/icphov/) in January I talked about 'the ‘evanescent /l/’ in Venetan: a preliminary EMA study', conducted with Francesco Burroni (IPS, LMU Munich).
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 15px 0;">
