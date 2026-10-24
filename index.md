@@ -39,7 +39,7 @@ Another major research interest of mine concerns the interaction beween consonan
 ## Latest news
 - **Oct 2026** - I had a great time at Interspeech 2026, Sydney! It was a wonderful surprise to be awarded the "Best scientific communication award" by ASSTA :-) Here's me receiving it on stage during the closing ceremony:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 15px 0;">
-  <img src="interspeech2026.jpeg" style="height: auto; max-height: 350px; max-width: 100%; border-radius: 4px;">
+  <img src="interspeech2026.JPG" style="height: auto; max-height: 350px; max-width: 100%; border-radius: 4px;">
 </div>
 - **Jul 2026** - Both papers from the ESRC project "Mapping Prosody" we submitted to Interspeech 2026 have been accepted! Interspeech is taking place in Sydney, Australia, in September this year. The two papers are titled "Broad focus rise(-fall) declaratives in Venetan: investigating typological outliers in Italo-Romance intonation" "Reconciling dynamic data analysis with linguistic reality: comparing Legendre Polynomial Modelling and GAMM applied to prosodic contact". Time to fly back Down Under soon :-)
 - **Apr 2026** - I have recently given two talks on Venetan at international conferences. At [BAAP at Warwick (UK)](https://warwick.ac.uk/fac/soc/al/research/baap2026/) this month Elinor Payne and I presented 'disambiguating intonational rises in a Venetan dialect'. At [ICPhoV at Granada (Spain)](https://blogs.ugr.es/icphov/) in January I talked about 'the ‘evanescent /l/’ in Venetan: a preliminary EMA study', conducted with Francesco Burroni (IPS, LMU Munich).
