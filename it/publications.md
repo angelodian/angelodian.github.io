@@ -11,21 +11,29 @@ title: "Pubblicazioni"
 
 ## Articoli su rivista
 
+Dian, A., Hajek, J., & Fletcher, J. (2026, in press). From approximant to plosive: a descriptive account of variation in the articulation of /v/ and /vː/ across regional varieties of Italian. *Linguistics Vanguard*.
+
 Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association.*, FirstView. https://doi.org/10.1017/S0025100325100881
 
 Hajek, J., Dian, A., Ford, C., Stevens, M., & Margetts, A. (2025). Saliba-Logea. *Journal of the International Phonetic Association.*  
 
-De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica, 82*(5). https://doi.org/10.1515/phon-2025-0012  
+De Iacovo, V., Dian, A., & Hajek, J. (2025). The perception of gemination in Italian by first-language speakers in Italy and heritage and second-language speakers in Australia. *Phonetica*, 82(5).  https://doi.org/10.1515/phon-2025-0012
 
 Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent voicing and gemination: The case of Roman and Veneto Italian. *Languages, 9*(12), 383. https://doi.org/10.3390/languages9120383  
+
+---
+
+## Articoli in volume
+
+Dian, A., Hajek, J., & Fletcher, J. (2026, in press). Che ro[b(b)]a!”–Durational patterns of word-medial intervocalic
+/b dʒ/ across three regional varieties of Italian. In *The Sound of Grammar: New Perspectives on the Interplay of
+Phonetics with Morphology, Syntax, and the Lexicon (Studi AISV)*.
 
 ---
 
 ## Atti di conferenza
 
 Dian A, Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
-
-Dian, A., Hajek, J., & Fletcher, J. (Forthcoming). ‘Che ro[b(b)]a!’ – Durational patterns of word-medial intervocalic /b dʒ/ across three regional varieties of Italian. In *Proceedings of AISV 2025*, Urbino, Italy.  
 
 Dian, A., Hajek, J., & Fletcher, J. (2024). An acoustic and electroglottographic (EGG) investigation of preaspiration and voice quality in the Italian four-way stop contrast across regional accents. In *Proceedings of the 19th Australasian International Conference on Speech Science and Technology* (pp. 147–150). Melbourne, Australia.  
 
