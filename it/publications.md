@@ -48,13 +48,3 @@ Dian, A., Hajek, J., & Fletcher, J. (2023). Near-merger of /sː ʃ/ in Veneto It
 Dian, A., Hajek, J., & Fletcher, J. (2022). Stop (de)gemination in Veneto Italian: The role of durational correlates. In *Proceedings of the 18th Australasian International Conference on Speech Science and Technology* (pp. 176–180). Canberra, Australia.  
 
 ---
-
-## Lavori in corso
-
-Payne, E., & Dian, A. (In preparation). The intonation of polar questions and declarative rises in central Venetan. [For submission to *Journal of Laboratory Phonology*].  
-
-Dian, A., & Burroni, F. (In preparation). Multiple acoustic cues to the singleton-geminate contrast in Italian across regional varieties and speech rates.  
-
-Hajek, J., & Dian, A. (In preparation). On ejectives in Waima’a: A typological and phonetic review.  
-
-Dian, A., & Cossu, P. (In preparation). Rhythm constraints and consonantal strength dynamics govern gemination in Sardinian Italian.  
