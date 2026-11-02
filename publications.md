@@ -25,7 +25,7 @@ Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent
 
 ## Book chapters
 
-Dian, A., Hajek, J., & Fletcher, J. (2026, in press). Che ro[b(b)]a!”–Durational patterns of word-medial intervocalic
+Dian, A., Hajek, J., & Fletcher, J. (2026, in press). "Che ro[b(b)]a!”–Durational patterns of word-medial intervocalic
 /b dʒ/ across three regional varieties of Italian. In *The Sound of Grammar: New Perspectives on the Interplay of
 Phonetics with Morphology, Syntax, and the Lexicon (Studi AISV)*.
 
