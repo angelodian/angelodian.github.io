@@ -23,6 +23,10 @@ Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent
 
 ## Conference Proceedings
 
+Dian, A., Baltazani, M., Armostis, S., & Payne, E. (2026). Reconciling dynamic data analysis with linguistic reality: comparing legendre polynomial modelling and GAMM applied to prosodic contact. *Proceedings of Interspeech 2026*, 560–564.
+
+Payne, E., & Dian, A. (2026). Broad focus rise(-fall) declaratives in Venetan: investigating typological outliers in Italo-Romance intonation. *Proceedings of Interspeech 2026*, 3716–3720.
+
 Dian A, Burroni F. (2026). The 'evanescent /l/' in Venetan: a preliminary EMA study. In Herrero de Haro, A., Repede, D. & Naciri-Azzouz. A. (eds.) *International Conference on Phonetic Variation: Book of Abstracts*, pp. 186-188.
 
 Dian, A., Hajek, J., & Fletcher, J. (Forthcoming). ‘Che ro[b(b)]a!’ – Durational patterns of word-medial intervocalic /b dʒ/ across three regional varieties of Italian. In *Proceedings of AISV 2025*, Urbino, Italy.  
