@@ -23,6 +23,14 @@ Dian, A., Hajek, J., & Fletcher, J. (2024). Cross-regional patterns of obstruent
 
 ---
 
+## Book chapters
+
+Dian, A., Hajek, J., & Fletcher, J. (2026, in press). Che ro[b(b)]a!”–Durational patterns of word-medial intervocalic
+/b dZ/ across three regional varieties of Italian. In *The Sound of Grammar: New Perspectives on the Interplay of
+Phonetics with Morphology, Syntax, and the Lexicon (Studi AISV)*.
+
+---
+
 ## Conference Proceedings
 
 Dian, A., Baltazani, M., Armostis, S., & Payne, E. (2026). Reconciling dynamic data analysis with linguistic reality: comparing legendre polynomial modelling and GAMM applied to prosodic contact. *Proceedings of Interspeech 2026*, 560–564.
