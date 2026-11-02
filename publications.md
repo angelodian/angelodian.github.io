@@ -11,6 +11,8 @@ title: "Publications"
 
 ## Journal Articles
 
+Dian, A., Hajek, J., & Fletcher, J. (2026, in press). From approximant to plosive: a descriptive account of variation in the articulation of /v/ and /vː/ across regional varieties of Italian. *Linguistics Vanguard*.
+
 Dian, A., Hajek, J., & Fletcher, J. (2026). The acoustic realization of intervocalic /v/ and /vː/ in Italian: Evidence of articulatory variability. *Journal of the International Phonetic Association.*, FirstView. https://doi.org/10.1017/S0025100325100881
 
 Hajek, J., Dian, A., Ford, C., Stevens, M., & Margetts, A. (2025). Saliba-Logea. *Journal of the International Phonetic Association.*  
