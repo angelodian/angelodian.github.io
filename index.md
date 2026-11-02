@@ -28,7 +28,7 @@ Another major research interest of mine concerns the interaction beween consonan
 ---
 
 ## CV
-[Download my CV (PDF)](AD_CV_MAR26final.pdf)
+[Download my CV (PDF)](AD_CV_JUL26.pdf)
 
 ## Recent publications
 - Dian, A., Baltazani, M., Armostis, S., & Payne, E. (2026). Reconciling dynamic data analysis with linguistic reality: comparing legendre polynomial modelling and GAMM applied to prosodic contact. *Proceedings of Interspeech 2026*, 560–564.
